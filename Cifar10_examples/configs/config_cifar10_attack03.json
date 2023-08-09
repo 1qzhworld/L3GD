@@ -1,0 +1,27 @@
+{
+    "_comment": "0.47",
+    "//alg": ["OMGD", "ONGD", "L3GD"],
+    "//algs": "This is added through argparse, then run each algorithm separately.",
+    "num_epoch": 200,
+    "batch_size" : 128,
+    "Kt": {
+        "Kt_type": "constant",
+        "//kt_type": "'1', outer_count, sqrt_outer_count, 11_uter_count, 15_outer_count, alpha,thm_cst, thm_dim, thm_dim_conservative, thm_dim_lambertw", 
+        "Kt_cst": 1,
+        "//Kt_cst": "only when Kt type=constant"
+    },
+    "alpha": 0.25,
+    "//alpha": "to achieve T~alpha regret, used for setting Kt", 
+    "learning_rate": {
+        "base_stp": 1e-1,
+        "diminishing": true
+    },
+    "continue_training": false,
+    "attack": {
+        "attack_prob": 0.41,
+        "attack_type":"flipping",
+        "attack_magnitude": 9
+    },
+    "save" :true,
+    "load":false
+}
