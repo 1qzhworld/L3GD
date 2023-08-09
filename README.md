@@ -21,6 +21,8 @@
   - the figures are saved in `./MNIST_examples/assets/`
   - the models are savedin `./MNIST_examples/models/`
   - the loss function records are saved in ./MNIST_examples/assets/
+- Run `cd ./Cifar10_examples`, then `bash run_MNIST_examples.sh`
+  - find the test accuracies in the files end with **.log** under the `logs` folder.
 
 ## Notes
 
