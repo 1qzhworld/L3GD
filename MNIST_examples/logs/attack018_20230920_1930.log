@@ -1,0 +1,2001 @@
+attack018_20230920_1930
+Alg: normalized_grad_desc. Regret 139.928749 
+ Epoch 1, Batch: 1, Train Loss 138951.77, Train Accu 0.1031, Test Loss 4630.15, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 138.770614 
+ Epoch 1, Batch: 2, Train Loss 138939.96, Train Accu 0.1036, Test Loss 4629.77, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 138.402171 
+ Epoch 1, Batch: 3, Train Loss 138950.62, Train Accu 0.1035, Test Loss 4630.11, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 138.540788 
+ Epoch 1, Batch: 4, Train Loss 138961.55, Train Accu 0.1030, Test Loss 4630.45, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 138.441027 
+ Epoch 1, Batch: 5, Train Loss 138951.37, Train Accu 0.1033, Test Loss 4630.13, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 138.130233 
+ Epoch 1, Batch: 6, Train Loss 138962.96, Train Accu 0.1028, Test Loss 4630.46, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 139.506180 
+ Epoch 1, Batch: 7, Train Loss 138973.13, Train Accu 0.1025, Test Loss 4630.78, Test Accu 0.1025
+Alg: normalized_grad_desc. Regret 139.255057 
+ Epoch 1, Batch: 8, Train Loss 138985.18, Train Accu 0.1022, Test Loss 4631.13, Test Accu 0.1030
+Alg: normalized_grad_desc. Regret 139.126572 
+ Epoch 1, Batch: 9, Train Loss 138973.42, Train Accu 0.1026, Test Loss 4630.75, Test Accu 0.1035
+Alg: normalized_grad_desc. Regret 138.772624 
+ Epoch 1, Batch: 10, Train Loss 138982.44, Train Accu 0.1023, Test Loss 4631.03, Test Accu 0.1025
+Alg: normalized_grad_desc. Regret 139.921568 
+ Epoch 1, Batch: 11, Train Loss 138970.81, Train Accu 0.1029, Test Loss 4630.68, Test Accu 0.1030
+Alg: normalized_grad_desc. Regret 139.189264 
+ Epoch 1, Batch: 12, Train Loss 138959.02, Train Accu 0.1034, Test Loss 4630.32, Test Accu 0.1040
+Alg: normalized_grad_desc. Regret 138.228059 
+ Epoch 1, Batch: 13, Train Loss 138948.39, Train Accu 0.1038, Test Loss 4629.99, Test Accu 0.1040
+Alg: normalized_grad_desc. Regret 139.698317 
+ Epoch 1, Batch: 14, Train Loss 138937.70, Train Accu 0.1042, Test Loss 4629.70, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 138.326772 
+ Epoch 1, Batch: 15, Train Loss 138950.34, Train Accu 0.1038, Test Loss 4630.09, Test Accu 0.1040
+Alg: normalized_grad_desc. Regret 139.374747 
+ Epoch 1, Batch: 16, Train Loss 138961.28, Train Accu 0.1037, Test Loss 4630.41, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 137.445347 
+ Epoch 1, Batch: 17, Train Loss 138949.68, Train Accu 0.1042, Test Loss 4630.06, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 139.875422 
+ Epoch 1, Batch: 18, Train Loss 138938.96, Train Accu 0.1045, Test Loss 4629.74, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 139.888581 
+ Epoch 1, Batch: 19, Train Loss 138950.79, Train Accu 0.1043, Test Loss 4630.09, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 138.745483 
+ Epoch 1, Batch: 20, Train Loss 138962.49, Train Accu 0.1040, Test Loss 4630.45, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 138.564971 
+ Epoch 1, Batch: 21, Train Loss 138950.56, Train Accu 0.1045, Test Loss 4630.06, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 138.055490 
+ Epoch 1, Batch: 22, Train Loss 138939.60, Train Accu 0.1047, Test Loss 4629.74, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 138.934950 
+ Epoch 1, Batch: 23, Train Loss 138950.94, Train Accu 0.1045, Test Loss 4630.08, Test Accu 0.1060
+Alg: normalized_grad_desc. Regret 140.472602 
+ Epoch 1, Batch: 24, Train Loss 138938.58, Train Accu 0.1046, Test Loss 4629.73, Test Accu 0.1060
+Alg: normalized_grad_desc. Regret 139.363351 
+ Epoch 1, Batch: 25, Train Loss 138948.76, Train Accu 0.1045, Test Loss 4630.06, Test Accu 0.1060
+Alg: normalized_grad_desc. Regret 139.691120 
+ Epoch 1, Batch: 26, Train Loss 138937.39, Train Accu 0.1051, Test Loss 4629.73, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 137.273785 
+ Epoch 1, Batch: 27, Train Loss 138948.68, Train Accu 0.1045, Test Loss 4630.07, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 139.249838 
+ Epoch 1, Batch: 28, Train Loss 138958.87, Train Accu 0.1041, Test Loss 4630.36, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 137.429459 
+ Epoch 1, Batch: 29, Train Loss 138948.79, Train Accu 0.1047, Test Loss 4630.05, Test Accu 0.1060
+Alg: normalized_grad_desc. Regret 139.770100 
+ Epoch 1, Batch: 30, Train Loss 138939.11, Train Accu 0.1053, Test Loss 4629.77, Test Accu 0.1060
+Alg: normalized_grad_desc. Regret 140.769484 
+ Epoch 1, Batch: 31, Train Loss 138928.17, Train Accu 0.1058, Test Loss 4629.43, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 138.555852 
+ Epoch 1, Batch: 32, Train Loss 138915.69, Train Accu 0.1059, Test Loss 4629.06, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 139.546773 
+ Epoch 1, Batch: 33, Train Loss 138926.60, Train Accu 0.1056, Test Loss 4629.39, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 138.547826 
+ Epoch 1, Batch: 34, Train Loss 138914.30, Train Accu 0.1060, Test Loss 4629.04, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 138.371058 
+ Epoch 1, Batch: 35, Train Loss 138925.17, Train Accu 0.1055, Test Loss 4629.36, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 139.408738 
+ Epoch 1, Batch: 36, Train Loss 138913.53, Train Accu 0.1061, Test Loss 4629.00, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 139.769256 
+ Epoch 1, Batch: 37, Train Loss 138924.48, Train Accu 0.1057, Test Loss 4629.31, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 138.851187 
+ Epoch 1, Batch: 38, Train Loss 138936.34, Train Accu 0.1053, Test Loss 4629.68, Test Accu 0.1060
+Alg: normalized_grad_desc. Regret 139.890162 
+ Epoch 1, Batch: 39, Train Loss 138946.53, Train Accu 0.1048, Test Loss 4630.02, Test Accu 0.1060
+Alg: normalized_grad_desc. Regret 138.811395 
+ Epoch 1, Batch: 40, Train Loss 138934.84, Train Accu 0.1052, Test Loss 4629.65, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 137.741196 
+ Epoch 1, Batch: 41, Train Loss 138946.00, Train Accu 0.1047, Test Loss 4629.98, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 138.615047 
+ Epoch 1, Batch: 42, Train Loss 138937.15, Train Accu 0.1052, Test Loss 4629.68, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 139.294237 
+ Epoch 1, Batch: 43, Train Loss 138946.38, Train Accu 0.1045, Test Loss 4629.97, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 140.437826 
+ Epoch 1, Batch: 44, Train Loss 138958.91, Train Accu 0.1039, Test Loss 4630.36, Test Accu 0.1060
+Alg: normalized_grad_desc. Regret 139.530032 
+ Epoch 1, Batch: 45, Train Loss 138970.77, Train Accu 0.1037, Test Loss 4630.72, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 137.971116 
+ Epoch 1, Batch: 46, Train Loss 138959.73, Train Accu 0.1040, Test Loss 4630.39, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 138.861326 
+ Epoch 1, Batch: 47, Train Loss 138971.78, Train Accu 0.1036, Test Loss 4630.74, Test Accu 0.1060
+Alg: normalized_grad_desc. Regret 140.561525 
+ Epoch 1, Batch: 48, Train Loss 138982.81, Train Accu 0.1033, Test Loss 4631.06, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 137.471519 
+ Epoch 1, Batch: 49, Train Loss 138993.99, Train Accu 0.1031, Test Loss 4631.40, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 139.057532 
+ Epoch 1, Batch: 50, Train Loss 138982.74, Train Accu 0.1037, Test Loss 4631.06, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 138.362631 
+ Epoch 1, Batch: 51, Train Loss 138970.91, Train Accu 0.1043, Test Loss 4630.74, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 139.238100 
+ Epoch 1, Batch: 52, Train Loss 138981.22, Train Accu 0.1038, Test Loss 4631.04, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 138.327218 
+ Epoch 1, Batch: 53, Train Loss 138970.60, Train Accu 0.1043, Test Loss 4630.71, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 138.255577 
+ Epoch 1, Batch: 54, Train Loss 138959.52, Train Accu 0.1047, Test Loss 4630.36, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 138.284417 
+ Epoch 1, Batch: 55, Train Loss 138948.87, Train Accu 0.1051, Test Loss 4630.05, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 137.370608 
+ Epoch 1, Batch: 56, Train Loss 138938.25, Train Accu 0.1057, Test Loss 4629.73, Test Accu 0.1085
+Alg: normalized_grad_desc. Regret 140.580068 
+ Epoch 1, Batch: 57, Train Loss 138928.40, Train Accu 0.1060, Test Loss 4629.42, Test Accu 0.1085
+Alg: normalized_grad_desc. Regret 136.803071 
+ Epoch 1, Batch: 58, Train Loss 138940.57, Train Accu 0.1055, Test Loss 4629.76, Test Accu 0.1085
+Alg: normalized_grad_desc. Regret 138.721767 
+ Epoch 1, Batch: 59, Train Loss 138931.36, Train Accu 0.1062, Test Loss 4629.50, Test Accu 0.1090
+Alg: normalized_grad_desc. Regret 138.202486 
+ Epoch 1, Batch: 60, Train Loss 138941.07, Train Accu 0.1055, Test Loss 4629.79, Test Accu 0.1085
+Alg: normalized_grad_desc. Regret 138.913286 
+ Epoch 1, Batch: 61, Train Loss 138952.49, Train Accu 0.1048, Test Loss 4630.14, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 137.152856 
+ Epoch 1, Batch: 62, Train Loss 138960.89, Train Accu 0.1047, Test Loss 4630.45, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 140.113706 
+ Epoch 1, Batch: 63, Train Loss 138950.61, Train Accu 0.1054, Test Loss 4630.15, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 139.257638 
+ Epoch 1, Batch: 64, Train Loss 138961.43, Train Accu 0.1050, Test Loss 4630.47, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 139.328269 
+ Epoch 1, Batch: 65, Train Loss 138948.74, Train Accu 0.1054, Test Loss 4630.09, Test Accu 0.1085
+Alg: normalized_grad_desc. Regret 138.150630 
+ Epoch 1, Batch: 66, Train Loss 138958.77, Train Accu 0.1050, Test Loss 4630.38, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 137.831818 
+ Epoch 1, Batch: 67, Train Loss 138948.15, Train Accu 0.1057, Test Loss 4630.09, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 137.988824 
+ Epoch 1, Batch: 68, Train Loss 138938.06, Train Accu 0.1060, Test Loss 4629.78, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 138.198657 
+ Epoch 1, Batch: 69, Train Loss 138947.48, Train Accu 0.1058, Test Loss 4630.07, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 140.419119 
+ Epoch 1, Batch: 70, Train Loss 138936.90, Train Accu 0.1064, Test Loss 4629.75, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 137.493347 
+ Epoch 1, Batch: 71, Train Loss 138926.27, Train Accu 0.1069, Test Loss 4629.40, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 139.491486 
+ Epoch 1, Batch: 72, Train Loss 138917.75, Train Accu 0.1071, Test Loss 4629.14, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 139.136410 
+ Epoch 1, Batch: 73, Train Loss 138904.63, Train Accu 0.1075, Test Loss 4628.74, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 139.835100 
+ Epoch 1, Batch: 74, Train Loss 138893.10, Train Accu 0.1078, Test Loss 4628.38, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 139.707852 
+ Epoch 1, Batch: 75, Train Loss 138903.01, Train Accu 0.1076, Test Loss 4628.71, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 139.404923 
+ Epoch 1, Batch: 76, Train Loss 138890.89, Train Accu 0.1080, Test Loss 4628.35, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 139.151195 
+ Epoch 1, Batch: 77, Train Loss 138879.09, Train Accu 0.1083, Test Loss 4627.99, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 140.418658 
+ Epoch 1, Batch: 78, Train Loss 138890.22, Train Accu 0.1079, Test Loss 4628.34, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 137.742622 
+ Epoch 1, Batch: 79, Train Loss 138901.90, Train Accu 0.1075, Test Loss 4628.69, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 138.767263 
+ Epoch 1, Batch: 80, Train Loss 138911.25, Train Accu 0.1073, Test Loss 4629.00, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 137.520423 
+ Epoch 1, Batch: 81, Train Loss 138920.85, Train Accu 0.1067, Test Loss 4629.30, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 139.075900 
+ Epoch 1, Batch: 82, Train Loss 138908.82, Train Accu 0.1073, Test Loss 4628.95, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 138.199756 
+ Epoch 1, Batch: 83, Train Loss 138920.52, Train Accu 0.1068, Test Loss 4629.30, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 139.285703 
+ Epoch 1, Batch: 84, Train Loss 138930.92, Train Accu 0.1064, Test Loss 4629.61, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 139.173833 
+ Epoch 1, Batch: 85, Train Loss 138919.79, Train Accu 0.1069, Test Loss 4629.28, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 141.877774 
+ Epoch 1, Batch: 86, Train Loss 138907.75, Train Accu 0.1072, Test Loss 4628.93, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 140.144994 
+ Epoch 1, Batch: 87, Train Loss 138896.74, Train Accu 0.1076, Test Loss 4628.60, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 136.800850 
+ Epoch 1, Batch: 88, Train Loss 138907.12, Train Accu 0.1072, Test Loss 4628.93, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 139.333085 
+ Epoch 1, Batch: 89, Train Loss 138896.75, Train Accu 0.1077, Test Loss 4628.65, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 138.209160 
+ Epoch 1, Batch: 90, Train Loss 138907.98, Train Accu 0.1074, Test Loss 4628.97, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 140.183132 
+ Epoch 1, Batch: 91, Train Loss 138898.56, Train Accu 0.1078, Test Loss 4628.66, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 138.286853 
+ Epoch 1, Batch: 92, Train Loss 138909.22, Train Accu 0.1073, Test Loss 4628.98, Test Accu 0.1090
+Alg: normalized_grad_desc. Regret 140.341025 
+ Epoch 1, Batch: 93, Train Loss 138921.12, Train Accu 0.1068, Test Loss 4629.33, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 137.878485 
+ Epoch 1, Batch: 94, Train Loss 138932.23, Train Accu 0.1066, Test Loss 4629.69, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 139.926642 
+ Epoch 1, Batch: 95, Train Loss 138943.22, Train Accu 0.1058, Test Loss 4630.01, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 138.946468 
+ Epoch 1, Batch: 96, Train Loss 138931.18, Train Accu 0.1064, Test Loss 4629.64, Test Accu 0.1085
+Alg: normalized_grad_desc. Regret 139.261931 
+ Epoch 1, Batch: 97, Train Loss 138920.65, Train Accu 0.1069, Test Loss 4629.34, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 138.650440 
+ Epoch 1, Batch: 98, Train Loss 138931.11, Train Accu 0.1064, Test Loss 4629.66, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 139.095927 
+ Epoch 1, Batch: 99, Train Loss 138919.54, Train Accu 0.1069, Test Loss 4629.31, Test Accu 0.1085
+Alg: normalized_grad_desc. Regret 137.639102 
+ Epoch 1, Batch: 100, Train Loss 138928.45, Train Accu 0.1066, Test Loss 4629.61, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 137.807906 
+ Epoch 1, Batch: 101, Train Loss 138939.96, Train Accu 0.1061, Test Loss 4629.95, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 137.743733 
+ Epoch 1, Batch: 102, Train Loss 138951.09, Train Accu 0.1055, Test Loss 4630.29, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 138.355057 
+ Epoch 1, Batch: 103, Train Loss 138961.73, Train Accu 0.1051, Test Loss 4630.63, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 139.047771 
+ Epoch 1, Batch: 104, Train Loss 138952.74, Train Accu 0.1057, Test Loss 4630.38, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 139.366136 
+ Epoch 1, Batch: 105, Train Loss 138941.37, Train Accu 0.1064, Test Loss 4630.06, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 139.583888 
+ Epoch 1, Batch: 106, Train Loss 138952.10, Train Accu 0.1059, Test Loss 4630.35, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 138.295962 
+ Epoch 1, Batch: 107, Train Loss 138964.23, Train Accu 0.1053, Test Loss 4630.71, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 138.941982 
+ Epoch 1, Batch: 108, Train Loss 138954.46, Train Accu 0.1056, Test Loss 4630.42, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 140.148037 
+ Epoch 1, Batch: 109, Train Loss 138942.34, Train Accu 0.1064, Test Loss 4630.06, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 138.949737 
+ Epoch 1, Batch: 110, Train Loss 138953.61, Train Accu 0.1060, Test Loss 4630.39, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 138.854629 
+ Epoch 1, Batch: 111, Train Loss 138943.14, Train Accu 0.1067, Test Loss 4630.08, Test Accu 0.1085
+Alg: normalized_grad_desc. Regret 139.551008 
+ Epoch 1, Batch: 112, Train Loss 138931.74, Train Accu 0.1071, Test Loss 4629.74, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 138.804333 
+ Epoch 1, Batch: 113, Train Loss 138919.59, Train Accu 0.1075, Test Loss 4629.39, Test Accu 0.1085
+Alg: normalized_grad_desc. Regret 137.281293 
+ Epoch 1, Batch: 114, Train Loss 138909.15, Train Accu 0.1080, Test Loss 4629.08, Test Accu 0.1085
+Alg: normalized_grad_desc. Regret 139.516848 
+ Epoch 1, Batch: 115, Train Loss 138920.89, Train Accu 0.1072, Test Loss 4629.43, Test Accu 0.1085
+Alg: normalized_grad_desc. Regret 138.061025 
+ Epoch 1, Batch: 116, Train Loss 138931.64, Train Accu 0.1068, Test Loss 4629.78, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 139.384770 
+ Epoch 1, Batch: 117, Train Loss 138941.94, Train Accu 0.1063, Test Loss 4630.04, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 138.787901 
+ Epoch 1, Batch: 118, Train Loss 138930.95, Train Accu 0.1068, Test Loss 4629.71, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 137.583448 
+ Epoch 1, Batch: 119, Train Loss 138941.59, Train Accu 0.1066, Test Loss 4630.04, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 139.364414 
+ Epoch 1, Batch: 120, Train Loss 138931.16, Train Accu 0.1069, Test Loss 4629.75, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 138.737107 
+ Epoch 1, Batch: 121, Train Loss 138941.48, Train Accu 0.1068, Test Loss 4630.09, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 139.188836 
+ Epoch 1, Batch: 122, Train Loss 138929.59, Train Accu 0.1071, Test Loss 4629.74, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 140.577833 
+ Epoch 1, Batch: 123, Train Loss 138919.74, Train Accu 0.1076, Test Loss 4629.43, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 138.815056 
+ Epoch 1, Batch: 124, Train Loss 138931.13, Train Accu 0.1073, Test Loss 4629.80, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 138.701186 
+ Epoch 1, Batch: 125, Train Loss 138942.19, Train Accu 0.1068, Test Loss 4630.10, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 140.612761 
+ Epoch 1, Batch: 126, Train Loss 138952.96, Train Accu 0.1064, Test Loss 4630.45, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 137.440163 
+ Epoch 1, Batch: 127, Train Loss 138964.63, Train Accu 0.1059, Test Loss 4630.80, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 138.741264 
+ Epoch 1, Batch: 128, Train Loss 138975.47, Train Accu 0.1055, Test Loss 4631.14, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 140.705586 
+ Epoch 1, Batch: 129, Train Loss 138987.24, Train Accu 0.1050, Test Loss 4631.50, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 138.948605 
+ Epoch 1, Batch: 130, Train Loss 138998.83, Train Accu 0.1046, Test Loss 4631.86, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 139.226113 
+ Epoch 1, Batch: 131, Train Loss 138986.97, Train Accu 0.1051, Test Loss 4631.50, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 139.063093 
+ Epoch 1, Batch: 132, Train Loss 138975.50, Train Accu 0.1055, Test Loss 4631.14, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 139.021036 
+ Epoch 1, Batch: 133, Train Loss 138964.45, Train Accu 0.1058, Test Loss 4630.79, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 139.324145 
+ Epoch 1, Batch: 134, Train Loss 138975.26, Train Accu 0.1053, Test Loss 4631.14, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 140.108898 
+ Epoch 1, Batch: 135, Train Loss 138987.51, Train Accu 0.1047, Test Loss 4631.52, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 139.134585 
+ Epoch 1, Batch: 136, Train Loss 138999.43, Train Accu 0.1042, Test Loss 4631.87, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 139.397154 
+ Epoch 1, Batch: 137, Train Loss 138989.42, Train Accu 0.1045, Test Loss 4631.58, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 139.560381 
+ Epoch 1, Batch: 138, Train Loss 138978.28, Train Accu 0.1048, Test Loss 4631.26, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 138.772785 
+ Epoch 1, Batch: 139, Train Loss 138989.69, Train Accu 0.1047, Test Loss 4631.60, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 140.196200 
+ Epoch 1, Batch: 140, Train Loss 138978.72, Train Accu 0.1050, Test Loss 4631.31, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 137.936665 
+ Epoch 1, Batch: 141, Train Loss 138967.26, Train Accu 0.1053, Test Loss 4630.95, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 138.063499 
+ Epoch 1, Batch: 142, Train Loss 138955.25, Train Accu 0.1060, Test Loss 4630.59, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 140.805184 
+ Epoch 1, Batch: 143, Train Loss 138966.15, Train Accu 0.1056, Test Loss 4630.89, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 139.549186 
+ Epoch 1, Batch: 144, Train Loss 138954.07, Train Accu 0.1062, Test Loss 4630.55, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 138.854435 
+ Epoch 1, Batch: 145, Train Loss 138965.15, Train Accu 0.1056, Test Loss 4630.89, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 137.301245 
+ Epoch 1, Batch: 146, Train Loss 138977.04, Train Accu 0.1051, Test Loss 4631.26, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 139.343726 
+ Epoch 1, Batch: 147, Train Loss 138987.57, Train Accu 0.1046, Test Loss 4631.58, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 138.822083 
+ Epoch 1, Batch: 148, Train Loss 138999.46, Train Accu 0.1040, Test Loss 4631.94, Test Accu 0.1060
+Alg: normalized_grad_desc. Regret 138.233268 
+ Epoch 1, Batch: 149, Train Loss 138988.89, Train Accu 0.1045, Test Loss 4631.60, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 135.949694 
+ Epoch 1, Batch: 150, Train Loss 138978.59, Train Accu 0.1048, Test Loss 4631.29, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 138.338728 
+ Epoch 1, Batch: 151, Train Loss 138968.73, Train Accu 0.1054, Test Loss 4630.99, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 138.159399 
+ Epoch 1, Batch: 152, Train Loss 138979.33, Train Accu 0.1048, Test Loss 4631.31, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 137.610815 
+ Epoch 1, Batch: 153, Train Loss 138988.84, Train Accu 0.1041, Test Loss 4631.59, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 137.584192 
+ Epoch 1, Batch: 154, Train Loss 138998.67, Train Accu 0.1035, Test Loss 4631.89, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 140.256863 
+ Epoch 1, Batch: 155, Train Loss 139009.47, Train Accu 0.1030, Test Loss 4632.23, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 139.249203 
+ Epoch 1, Batch: 156, Train Loss 138997.49, Train Accu 0.1035, Test Loss 4631.87, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 138.921989 
+ Epoch 1, Batch: 157, Train Loss 138985.55, Train Accu 0.1040, Test Loss 4631.52, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 138.495446 
+ Epoch 1, Batch: 158, Train Loss 138995.72, Train Accu 0.1033, Test Loss 4631.84, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 139.764633 
+ Epoch 1, Batch: 159, Train Loss 138984.67, Train Accu 0.1038, Test Loss 4631.52, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 140.012753 
+ Epoch 1, Batch: 160, Train Loss 138972.56, Train Accu 0.1041, Test Loss 4631.16, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 139.643398 
+ Epoch 1, Batch: 161, Train Loss 138961.22, Train Accu 0.1047, Test Loss 4630.83, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 139.849714 
+ Epoch 1, Batch: 162, Train Loss 138973.49, Train Accu 0.1041, Test Loss 4631.21, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 136.609894 
+ Epoch 1, Batch: 163, Train Loss 138961.31, Train Accu 0.1046, Test Loss 4630.85, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 137.397497 
+ Epoch 1, Batch: 164, Train Loss 138969.65, Train Accu 0.1041, Test Loss 4631.07, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 139.367455 
+ Epoch 1, Batch: 165, Train Loss 138960.23, Train Accu 0.1046, Test Loss 4630.78, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 139.211285 
+ Epoch 1, Batch: 166, Train Loss 138970.68, Train Accu 0.1038, Test Loss 4631.10, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 140.126506 
+ Epoch 1, Batch: 167, Train Loss 138959.50, Train Accu 0.1043, Test Loss 4630.78, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 139.277751 
+ Epoch 1, Batch: 168, Train Loss 138948.22, Train Accu 0.1049, Test Loss 4630.44, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 137.473379 
+ Epoch 1, Batch: 169, Train Loss 138960.29, Train Accu 0.1045, Test Loss 4630.80, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 137.840954 
+ Epoch 1, Batch: 170, Train Loss 138948.95, Train Accu 0.1051, Test Loss 4630.46, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 135.911673 
+ Epoch 1, Batch: 171, Train Loss 138937.90, Train Accu 0.1056, Test Loss 4630.13, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 138.564106 
+ Epoch 1, Batch: 172, Train Loss 138929.55, Train Accu 0.1062, Test Loss 4629.88, Test Accu 0.1085
+Alg: normalized_grad_desc. Regret 139.351033 
+ Epoch 1, Batch: 173, Train Loss 138919.11, Train Accu 0.1066, Test Loss 4629.55, Test Accu 0.1095
+Alg: normalized_grad_desc. Regret 138.326221 
+ Epoch 1, Batch: 174, Train Loss 138908.69, Train Accu 0.1072, Test Loss 4629.25, Test Accu 0.1100
+Alg: normalized_grad_desc. Regret 138.229928 
+ Epoch 1, Batch: 175, Train Loss 138919.39, Train Accu 0.1067, Test Loss 4629.59, Test Accu 0.1095
+Alg: normalized_grad_desc. Regret 140.660512 
+ Epoch 1, Batch: 176, Train Loss 138908.24, Train Accu 0.1073, Test Loss 4629.24, Test Accu 0.1100
+Alg: normalized_grad_desc. Regret 139.743034 
+ Epoch 1, Batch: 177, Train Loss 138897.14, Train Accu 0.1076, Test Loss 4628.91, Test Accu 0.1100
+Alg: normalized_grad_desc. Regret 138.643863 
+ Epoch 1, Batch: 178, Train Loss 138884.93, Train Accu 0.1081, Test Loss 4628.55, Test Accu 0.1115
+Alg: normalized_grad_desc. Regret 139.058253 
+ Epoch 1, Batch: 179, Train Loss 138897.15, Train Accu 0.1076, Test Loss 4628.89, Test Accu 0.1100
+Alg: normalized_grad_desc. Regret 138.173733 
+ Epoch 1, Batch: 180, Train Loss 138907.40, Train Accu 0.1071, Test Loss 4629.22, Test Accu 0.1100
+Alg: normalized_grad_desc. Regret 138.509336 
+ Epoch 1, Batch: 181, Train Loss 138896.58, Train Accu 0.1077, Test Loss 4628.88, Test Accu 0.1100
+Alg: normalized_grad_desc. Regret 138.275856 
+ Epoch 1, Batch: 182, Train Loss 138907.66, Train Accu 0.1070, Test Loss 4629.20, Test Accu 0.1090
+Alg: normalized_grad_desc. Regret 138.192664 
+ Epoch 1, Batch: 183, Train Loss 138896.75, Train Accu 0.1075, Test Loss 4628.87, Test Accu 0.1110
+Alg: normalized_grad_desc. Regret 139.605155 
+ Epoch 1, Batch: 184, Train Loss 138906.36, Train Accu 0.1071, Test Loss 4629.16, Test Accu 0.1105
+Alg: normalized_grad_desc. Regret 139.496375 
+ Epoch 1, Batch: 185, Train Loss 138917.84, Train Accu 0.1064, Test Loss 4629.49, Test Accu 0.1095
+Alg: normalized_grad_desc. Regret 138.442482 
+ Epoch 1, Batch: 186, Train Loss 138928.89, Train Accu 0.1062, Test Loss 4629.82, Test Accu 0.1090
+Alg: normalized_grad_desc. Regret 138.877766 
+ Epoch 1, Batch: 187, Train Loss 138940.06, Train Accu 0.1057, Test Loss 4630.15, Test Accu 0.1085
+Alg: normalized_grad_desc. Regret 138.121380 
+ Epoch 1, Batch: 188, Train Loss 138951.48, Train Accu 0.1051, Test Loss 4630.48, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 138.164508 
+ Epoch 1, Batch: 189, Train Loss 138940.30, Train Accu 0.1056, Test Loss 4630.13, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 138.828422 
+ Epoch 1, Batch: 190, Train Loss 138927.93, Train Accu 0.1061, Test Loss 4629.76, Test Accu 0.1090
+Alg: normalized_grad_desc. Regret 139.844512 
+ Epoch 1, Batch: 191, Train Loss 138916.22, Train Accu 0.1065, Test Loss 4629.42, Test Accu 0.1100
+Alg: normalized_grad_desc. Regret 139.328956 
+ Epoch 1, Batch: 192, Train Loss 138906.91, Train Accu 0.1070, Test Loss 4629.11, Test Accu 0.1105
+Alg: normalized_grad_desc. Regret 137.872985 
+ Epoch 1, Batch: 193, Train Loss 138896.50, Train Accu 0.1072, Test Loss 4628.76, Test Accu 0.1100
+Alg: normalized_grad_desc. Regret 138.498145 
+ Epoch 1, Batch: 194, Train Loss 138905.27, Train Accu 0.1064, Test Loss 4629.04, Test Accu 0.1100
+Alg: normalized_grad_desc. Regret 139.305453 
+ Epoch 1, Batch: 195, Train Loss 138895.17, Train Accu 0.1069, Test Loss 4628.75, Test Accu 0.1105
+Alg: normalized_grad_desc. Regret 138.428748 
+ Epoch 1, Batch: 196, Train Loss 138906.32, Train Accu 0.1065, Test Loss 4629.09, Test Accu 0.1095
+Alg: normalized_grad_desc. Regret 140.514947 
+ Epoch 1, Batch: 197, Train Loss 138916.55, Train Accu 0.1057, Test Loss 4629.38, Test Accu 0.1090
+Alg: normalized_grad_desc. Regret 137.898330 
+ Epoch 1, Batch: 198, Train Loss 138904.78, Train Accu 0.1059, Test Loss 4629.01, Test Accu 0.1095
+Alg: normalized_grad_desc. Regret 138.800765 
+ Epoch 1, Batch: 199, Train Loss 138916.45, Train Accu 0.1053, Test Loss 4629.35, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 139.533454 
+ Epoch 1, Batch: 200, Train Loss 138906.19, Train Accu 0.1055, Test Loss 4629.02, Test Accu 0.1090
+Alg: normalized_grad_desc. Regret 140.359493 
+ Epoch 1, Batch: 201, Train Loss 138917.36, Train Accu 0.1052, Test Loss 4629.34, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 139.392340 
+ Epoch 1, Batch: 202, Train Loss 138907.36, Train Accu 0.1055, Test Loss 4629.02, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 138.295415 
+ Epoch 1, Batch: 203, Train Loss 138918.85, Train Accu 0.1050, Test Loss 4629.34, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 137.642770 
+ Epoch 1, Batch: 204, Train Loss 138908.49, Train Accu 0.1053, Test Loss 4629.03, Test Accu 0.1085
+Alg: normalized_grad_desc. Regret 139.408007 
+ Epoch 1, Batch: 205, Train Loss 138918.65, Train Accu 0.1050, Test Loss 4629.34, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 140.121955 
+ Epoch 1, Batch: 206, Train Loss 138930.05, Train Accu 0.1046, Test Loss 4629.67, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 139.315557 
+ Epoch 1, Batch: 207, Train Loss 138941.89, Train Accu 0.1042, Test Loss 4630.02, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 137.305293 
+ Epoch 1, Batch: 208, Train Loss 138952.71, Train Accu 0.1035, Test Loss 4630.35, Test Accu 0.1060
+Alg: normalized_grad_desc. Regret 139.203566 
+ Epoch 1, Batch: 209, Train Loss 138963.31, Train Accu 0.1029, Test Loss 4630.66, Test Accu 0.1060
+Alg: normalized_grad_desc. Regret 138.702477 
+ Epoch 1, Batch: 210, Train Loss 138973.34, Train Accu 0.1025, Test Loss 4630.94, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 137.797816 
+ Epoch 1, Batch: 211, Train Loss 138963.69, Train Accu 0.1029, Test Loss 4630.68, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 139.966660 
+ Epoch 1, Batch: 212, Train Loss 138972.89, Train Accu 0.1026, Test Loss 4630.98, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 137.555513 
+ Epoch 1, Batch: 213, Train Loss 138984.78, Train Accu 0.1023, Test Loss 4631.31, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 138.907048 
+ Epoch 1, Batch: 214, Train Loss 138995.30, Train Accu 0.1019, Test Loss 4631.64, Test Accu 0.1030
+Alg: normalized_grad_desc. Regret 140.235940 
+ Epoch 1, Batch: 215, Train Loss 138985.28, Train Accu 0.1023, Test Loss 4631.31, Test Accu 0.1040
+Alg: normalized_grad_desc. Regret 138.886962 
+ Epoch 1, Batch: 216, Train Loss 138974.64, Train Accu 0.1027, Test Loss 4630.99, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 139.239959 
+ Epoch 1, Batch: 217, Train Loss 138985.41, Train Accu 0.1024, Test Loss 4631.33, Test Accu 0.1035
+Alg: normalized_grad_desc. Regret 140.066159 
+ Epoch 1, Batch: 218, Train Loss 138973.97, Train Accu 0.1029, Test Loss 4631.01, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 139.880489 
+ Epoch 1, Batch: 219, Train Loss 138963.24, Train Accu 0.1032, Test Loss 4630.69, Test Accu 0.1060
+Alg: normalized_grad_desc. Regret 140.292347 
+ Epoch 1, Batch: 220, Train Loss 138952.03, Train Accu 0.1035, Test Loss 4630.34, Test Accu 0.1060
+Alg: normalized_grad_desc. Regret 137.980706 
+ Epoch 1, Batch: 221, Train Loss 138962.16, Train Accu 0.1031, Test Loss 4630.63, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 139.313366 
+ Epoch 1, Batch: 222, Train Loss 138971.61, Train Accu 0.1026, Test Loss 4630.93, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 139.723556 
+ Epoch 1, Batch: 223, Train Loss 138984.04, Train Accu 0.1020, Test Loss 4631.28, Test Accu 0.1030
+Alg: normalized_grad_desc. Regret 137.602007 
+ Epoch 1, Batch: 224, Train Loss 138973.05, Train Accu 0.1023, Test Loss 4630.93, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 140.430053 
+ Epoch 1, Batch: 225, Train Loss 138961.68, Train Accu 0.1028, Test Loss 4630.58, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 138.102864 
+ Epoch 1, Batch: 226, Train Loss 138950.62, Train Accu 0.1032, Test Loss 4630.26, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 140.187921 
+ Epoch 1, Batch: 227, Train Loss 138959.65, Train Accu 0.1026, Test Loss 4630.54, Test Accu 0.1040
+Alg: normalized_grad_desc. Regret 139.528825 
+ Epoch 1, Batch: 228, Train Loss 138970.68, Train Accu 0.1024, Test Loss 4630.89, Test Accu 0.1035
+Alg: normalized_grad_desc. Regret 138.053259 
+ Epoch 1, Batch: 229, Train Loss 138959.05, Train Accu 0.1029, Test Loss 4630.54, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 137.159801 
+ Epoch 1, Batch: 230, Train Loss 138949.89, Train Accu 0.1032, Test Loss 4630.28, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 138.207409 
+ Epoch 1, Batch: 231, Train Loss 138938.99, Train Accu 0.1038, Test Loss 4629.98, Test Accu 0.1060
+Alg: normalized_grad_desc. Regret 137.336561 
+ Epoch 1, Batch: 232, Train Loss 138928.24, Train Accu 0.1042, Test Loss 4629.66, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 139.263177 
+ Epoch 1, Batch: 233, Train Loss 138938.85, Train Accu 0.1036, Test Loss 4629.97, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 138.768601 
+ Epoch 1, Batch: 234, Train Loss 138927.61, Train Accu 0.1039, Test Loss 4629.61, Test Accu 0.1060
+Alg: normalized_grad_desc. Regret 139.303357 
+ Epoch 1, Batch: 235, Train Loss 138938.22, Train Accu 0.1035, Test Loss 4629.94, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 137.458908 
+ Epoch 1, Batch: 236, Train Loss 138925.66, Train Accu 0.1037, Test Loss 4629.58, Test Accu 0.1060
+Alg: normalized_grad_desc. Regret 139.999462 
+ Epoch 1, Batch: 237, Train Loss 138914.75, Train Accu 0.1046, Test Loss 4629.24, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 137.536976 
+ Epoch 1, Batch: 238, Train Loss 138903.81, Train Accu 0.1050, Test Loss 4628.90, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 139.186799 
+ Epoch 1, Batch: 239, Train Loss 138913.84, Train Accu 0.1045, Test Loss 4629.20, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 140.734015 
+ Epoch 1, Batch: 240, Train Loss 138902.08, Train Accu 0.1050, Test Loss 4628.80, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 137.945820 
+ Epoch 1, Batch: 241, Train Loss 138890.62, Train Accu 0.1054, Test Loss 4628.47, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 137.954401 
+ Epoch 1, Batch: 242, Train Loss 138879.97, Train Accu 0.1058, Test Loss 4628.16, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 138.600391 
+ Epoch 1, Batch: 243, Train Loss 138869.70, Train Accu 0.1064, Test Loss 4627.87, Test Accu 0.1085
+Alg: normalized_grad_desc. Regret 138.865486 
+ Epoch 1, Batch: 244, Train Loss 138881.20, Train Accu 0.1062, Test Loss 4628.20, Test Accu 0.1090
+Alg: normalized_grad_desc. Regret 139.485010 
+ Epoch 1, Batch: 245, Train Loss 138891.89, Train Accu 0.1056, Test Loss 4628.55, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 138.881971 
+ Epoch 1, Batch: 246, Train Loss 138903.58, Train Accu 0.1051, Test Loss 4628.92, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 138.707465 
+ Epoch 1, Batch: 247, Train Loss 138915.31, Train Accu 0.1046, Test Loss 4629.27, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 138.007463 
+ Epoch 1, Batch: 248, Train Loss 138925.78, Train Accu 0.1040, Test Loss 4629.57, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 138.619946 
+ Epoch 1, Batch: 249, Train Loss 138936.52, Train Accu 0.1037, Test Loss 4629.91, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 139.710847 
+ Epoch 1, Batch: 250, Train Loss 138925.38, Train Accu 0.1044, Test Loss 4629.55, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 138.694419 
+ Epoch 1, Batch: 251, Train Loss 138938.06, Train Accu 0.1038, Test Loss 4629.94, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 138.681509 
+ Epoch 1, Batch: 252, Train Loss 138948.27, Train Accu 0.1034, Test Loss 4630.25, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 139.286973 
+ Epoch 1, Batch: 253, Train Loss 138938.95, Train Accu 0.1037, Test Loss 4629.97, Test Accu 0.1060
+Alg: normalized_grad_desc. Regret 138.859039 
+ Epoch 1, Batch: 254, Train Loss 138950.74, Train Accu 0.1031, Test Loss 4630.31, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 138.689962 
+ Epoch 1, Batch: 255, Train Loss 138940.33, Train Accu 0.1037, Test Loss 4630.00, Test Accu 0.1060
+Alg: normalized_grad_desc. Regret 138.916707 
+ Epoch 1, Batch: 256, Train Loss 138951.77, Train Accu 0.1031, Test Loss 4630.33, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 140.409162 
+ Epoch 1, Batch: 257, Train Loss 138963.76, Train Accu 0.1027, Test Loss 4630.71, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 139.062435 
+ Epoch 1, Batch: 258, Train Loss 138952.52, Train Accu 0.1030, Test Loss 4630.36, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 139.492085 
+ Epoch 1, Batch: 259, Train Loss 138964.80, Train Accu 0.1023, Test Loss 4630.73, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 137.688454 
+ Epoch 1, Batch: 260, Train Loss 138952.55, Train Accu 0.1029, Test Loss 4630.34, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 138.297747 
+ Epoch 1, Batch: 261, Train Loss 138963.14, Train Accu 0.1024, Test Loss 4630.65, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 138.525540 
+ Epoch 1, Batch: 262, Train Loss 138954.53, Train Accu 0.1027, Test Loss 4630.40, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 138.531021 
+ Epoch 1, Batch: 263, Train Loss 138944.05, Train Accu 0.1032, Test Loss 4630.10, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 137.875910 
+ Epoch 1, Batch: 264, Train Loss 138934.37, Train Accu 0.1036, Test Loss 4629.79, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 138.924323 
+ Epoch 1, Batch: 265, Train Loss 138945.25, Train Accu 0.1031, Test Loss 4630.10, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 138.341901 
+ Epoch 1, Batch: 266, Train Loss 138933.50, Train Accu 0.1035, Test Loss 4629.75, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 140.298552 
+ Epoch 1, Batch: 267, Train Loss 138945.40, Train Accu 0.1030, Test Loss 4630.09, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 139.733538 
+ Epoch 1, Batch: 268, Train Loss 138955.79, Train Accu 0.1027, Test Loss 4630.42, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 139.201282 
+ Epoch 1, Batch: 269, Train Loss 138966.89, Train Accu 0.1022, Test Loss 4630.73, Test Accu 0.1040
+Alg: normalized_grad_desc. Regret 138.589841 
+ Epoch 1, Batch: 270, Train Loss 138954.57, Train Accu 0.1027, Test Loss 4630.37, Test Accu 0.1040
+Alg: normalized_grad_desc. Regret 140.355565 
+ Epoch 1, Batch: 271, Train Loss 138944.30, Train Accu 0.1034, Test Loss 4630.09, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 139.437101 
+ Epoch 1, Batch: 272, Train Loss 138955.22, Train Accu 0.1030, Test Loss 4630.42, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 139.002144 
+ Epoch 1, Batch: 273, Train Loss 138944.48, Train Accu 0.1035, Test Loss 4630.09, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 138.739429 
+ Epoch 1, Batch: 274, Train Loss 138931.86, Train Accu 0.1041, Test Loss 4629.73, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 138.680964 
+ Epoch 1, Batch: 275, Train Loss 138919.63, Train Accu 0.1045, Test Loss 4629.35, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 137.122485 
+ Epoch 1, Batch: 276, Train Loss 138907.96, Train Accu 0.1050, Test Loss 4629.00, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 139.091803 
+ Epoch 1, Batch: 277, Train Loss 138918.89, Train Accu 0.1045, Test Loss 4629.32, Test Accu 0.1060
+Alg: normalized_grad_desc. Regret 138.572525 
+ Epoch 1, Batch: 278, Train Loss 138909.66, Train Accu 0.1049, Test Loss 4629.02, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 138.075641 
+ Epoch 1, Batch: 279, Train Loss 138899.82, Train Accu 0.1054, Test Loss 4628.73, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 138.249758 
+ Epoch 1, Batch: 280, Train Loss 138888.44, Train Accu 0.1060, Test Loss 4628.40, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 137.769459 
+ Epoch 1, Batch: 281, Train Loss 138899.64, Train Accu 0.1054, Test Loss 4628.74, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 139.748360 
+ Epoch 1, Batch: 282, Train Loss 138889.40, Train Accu 0.1060, Test Loss 4628.46, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 140.030038 
+ Epoch 1, Batch: 283, Train Loss 138879.41, Train Accu 0.1063, Test Loss 4628.14, Test Accu 0.1085
+Alg: normalized_grad_desc. Regret 138.661901 
+ Epoch 1, Batch: 284, Train Loss 138867.61, Train Accu 0.1071, Test Loss 4627.80, Test Accu 0.1090
+Alg: normalized_grad_desc. Regret 139.140780 
+ Epoch 1, Batch: 285, Train Loss 138879.00, Train Accu 0.1065, Test Loss 4628.13, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 139.815306 
+ Epoch 1, Batch: 286, Train Loss 138889.90, Train Accu 0.1059, Test Loss 4628.45, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 140.845963 
+ Epoch 1, Batch: 287, Train Loss 138899.94, Train Accu 0.1055, Test Loss 4628.77, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 138.581263 
+ Epoch 1, Batch: 288, Train Loss 138888.10, Train Accu 0.1058, Test Loss 4628.42, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 141.893148 
+ Epoch 1, Batch: 289, Train Loss 138900.03, Train Accu 0.1052, Test Loss 4628.77, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 140.978650 
+ Epoch 1, Batch: 290, Train Loss 138911.05, Train Accu 0.1050, Test Loss 4629.10, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 138.256531 
+ Epoch 1, Batch: 291, Train Loss 138899.69, Train Accu 0.1055, Test Loss 4628.78, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 137.986660 
+ Epoch 1, Batch: 292, Train Loss 138890.40, Train Accu 0.1059, Test Loss 4628.49, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 140.935347 
+ Epoch 1, Batch: 293, Train Loss 138900.99, Train Accu 0.1055, Test Loss 4628.84, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 137.561839 
+ Epoch 1, Batch: 294, Train Loss 138889.48, Train Accu 0.1056, Test Loss 4628.49, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 137.924097 
+ Epoch 1, Batch: 295, Train Loss 138899.38, Train Accu 0.1051, Test Loss 4628.81, Test Accu 0.1065
+Alg: normalized_grad_desc. Regret 139.566836 
+ Epoch 1, Batch: 296, Train Loss 138909.43, Train Accu 0.1046, Test Loss 4629.12, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 139.353139 
+ Epoch 1, Batch: 297, Train Loss 138921.41, Train Accu 0.1042, Test Loss 4629.50, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 138.074440 
+ Epoch 1, Batch: 298, Train Loss 138931.70, Train Accu 0.1038, Test Loss 4629.83, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 137.915378 
+ Epoch 1, Batch: 299, Train Loss 138922.14, Train Accu 0.1042, Test Loss 4629.56, Test Accu 0.1060
+Alg: normalized_grad_desc. Regret 140.025860 
+ Epoch 1, Batch: 300, Train Loss 138932.17, Train Accu 0.1037, Test Loss 4629.85, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 138.343098 
+ Epoch 1, Batch: 301, Train Loss 138943.57, Train Accu 0.1034, Test Loss 4630.19, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 139.363140 
+ Epoch 1, Batch: 302, Train Loss 138934.48, Train Accu 0.1034, Test Loss 4629.89, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 138.874398 
+ Epoch 1, Batch: 303, Train Loss 138946.27, Train Accu 0.1029, Test Loss 4630.25, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 140.096606 
+ Epoch 1, Batch: 304, Train Loss 138934.86, Train Accu 0.1033, Test Loss 4629.92, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 139.903507 
+ Epoch 1, Batch: 305, Train Loss 138945.04, Train Accu 0.1031, Test Loss 4630.25, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 137.414143 
+ Epoch 1, Batch: 306, Train Loss 138932.55, Train Accu 0.1034, Test Loss 4629.86, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 139.133931 
+ Epoch 1, Batch: 307, Train Loss 138943.51, Train Accu 0.1028, Test Loss 4630.18, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 138.912768 
+ Epoch 1, Batch: 308, Train Loss 138932.56, Train Accu 0.1032, Test Loss 4629.86, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 138.023865 
+ Epoch 1, Batch: 309, Train Loss 138921.95, Train Accu 0.1036, Test Loss 4629.53, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 137.034302 
+ Epoch 1, Batch: 310, Train Loss 138910.86, Train Accu 0.1041, Test Loss 4629.20, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 138.180951 
+ Epoch 1, Batch: 311, Train Loss 138900.53, Train Accu 0.1049, Test Loss 4628.90, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 138.032794 
+ Epoch 1, Batch: 312, Train Loss 138911.48, Train Accu 0.1042, Test Loss 4629.23, Test Accu 0.1060
+Alg: normalized_grad_desc. Regret 138.874948 
+ Epoch 1, Batch: 313, Train Loss 138899.87, Train Accu 0.1048, Test Loss 4628.89, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 139.175011 
+ Epoch 1, Batch: 314, Train Loss 138889.96, Train Accu 0.1051, Test Loss 4628.57, Test Accu 0.1085
+Alg: normalized_grad_desc. Regret 140.817729 
+ Epoch 1, Batch: 315, Train Loss 138877.42, Train Accu 0.1056, Test Loss 4628.20, Test Accu 0.1085
+Alg: normalized_grad_desc. Regret 137.744578 
+ Epoch 1, Batch: 316, Train Loss 138888.39, Train Accu 0.1054, Test Loss 4628.53, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 140.912975 
+ Epoch 1, Batch: 317, Train Loss 138877.31, Train Accu 0.1061, Test Loss 4628.20, Test Accu 0.1085
+Alg: normalized_grad_desc. Regret 139.911173 
+ Epoch 1, Batch: 318, Train Loss 138888.25, Train Accu 0.1058, Test Loss 4628.53, Test Accu 0.1085
+Alg: normalized_grad_desc. Regret 138.877871 
+ Epoch 1, Batch: 319, Train Loss 138876.34, Train Accu 0.1062, Test Loss 4628.16, Test Accu 0.1095
+Alg: normalized_grad_desc. Regret 140.209568 
+ Epoch 1, Batch: 320, Train Loss 138865.41, Train Accu 0.1069, Test Loss 4627.83, Test Accu 0.1095
+Alg: normalized_grad_desc. Regret 138.013397 
+ Epoch 1, Batch: 321, Train Loss 138877.45, Train Accu 0.1064, Test Loss 4628.18, Test Accu 0.1095
+Alg: normalized_grad_desc. Regret 137.514041 
+ Epoch 1, Batch: 322, Train Loss 138866.24, Train Accu 0.1068, Test Loss 4627.86, Test Accu 0.1095
+Alg: normalized_grad_desc. Regret 138.220617 
+ Epoch 1, Batch: 323, Train Loss 138855.45, Train Accu 0.1074, Test Loss 4627.55, Test Accu 0.1110
+Alg: normalized_grad_desc. Regret 138.534277 
+ Epoch 1, Batch: 324, Train Loss 138865.61, Train Accu 0.1066, Test Loss 4627.85, Test Accu 0.1095
+Alg: normalized_grad_desc. Regret 140.559428 
+ Epoch 1, Batch: 325, Train Loss 138853.80, Train Accu 0.1075, Test Loss 4627.51, Test Accu 0.1110
+Alg: normalized_grad_desc. Regret 137.276623 
+ Epoch 1, Batch: 326, Train Loss 138864.92, Train Accu 0.1072, Test Loss 4627.82, Test Accu 0.1110
+Alg: normalized_grad_desc. Regret 138.878335 
+ Epoch 1, Batch: 327, Train Loss 138854.26, Train Accu 0.1077, Test Loss 4627.51, Test Accu 0.1115
+Alg: normalized_grad_desc. Regret 140.601113 
+ Epoch 1, Batch: 328, Train Loss 138866.78, Train Accu 0.1069, Test Loss 4627.89, Test Accu 0.1110
+Alg: normalized_grad_desc. Regret 139.843988 
+ Epoch 1, Batch: 329, Train Loss 138877.31, Train Accu 0.1066, Test Loss 4628.22, Test Accu 0.1095
+Alg: normalized_grad_desc. Regret 139.757476 
+ Epoch 1, Batch: 330, Train Loss 138889.37, Train Accu 0.1061, Test Loss 4628.55, Test Accu 0.1090
+Alg: normalized_grad_desc. Regret 138.791676 
+ Epoch 1, Batch: 331, Train Loss 138878.74, Train Accu 0.1069, Test Loss 4628.23, Test Accu 0.1095
+Alg: normalized_grad_desc. Regret 140.125742 
+ Epoch 1, Batch: 332, Train Loss 138890.49, Train Accu 0.1062, Test Loss 4628.59, Test Accu 0.1090
+Alg: normalized_grad_desc. Regret 138.494726 
+ Epoch 1, Batch: 333, Train Loss 138901.64, Train Accu 0.1057, Test Loss 4628.93, Test Accu 0.1090
+Alg: normalized_grad_desc. Regret 137.653255 
+ Epoch 1, Batch: 334, Train Loss 138912.61, Train Accu 0.1052, Test Loss 4629.28, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 138.581932 
+ Epoch 1, Batch: 335, Train Loss 138902.45, Train Accu 0.1057, Test Loss 4628.97, Test Accu 0.1090
+Alg: normalized_grad_desc. Regret 138.497888 
+ Epoch 1, Batch: 336, Train Loss 138894.09, Train Accu 0.1060, Test Loss 4628.69, Test Accu 0.1090
+Alg: normalized_grad_desc. Regret 139.925723 
+ Epoch 1, Batch: 337, Train Loss 138904.67, Train Accu 0.1056, Test Loss 4629.03, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 137.629340 
+ Epoch 1, Batch: 338, Train Loss 138914.83, Train Accu 0.1051, Test Loss 4629.32, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 137.484318 
+ Epoch 1, Batch: 339, Train Loss 138924.66, Train Accu 0.1042, Test Loss 4629.61, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 139.668990 
+ Epoch 1, Batch: 340, Train Loss 138914.60, Train Accu 0.1047, Test Loss 4629.32, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 138.984370 
+ Epoch 1, Batch: 341, Train Loss 138904.16, Train Accu 0.1054, Test Loss 4628.99, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 139.089011 
+ Epoch 1, Batch: 342, Train Loss 138892.48, Train Accu 0.1059, Test Loss 4628.68, Test Accu 0.1085
+Alg: normalized_grad_desc. Regret 139.896147 
+ Epoch 1, Batch: 343, Train Loss 138903.50, Train Accu 0.1057, Test Loss 4628.99, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 139.440128 
+ Epoch 1, Batch: 344, Train Loss 138913.85, Train Accu 0.1055, Test Loss 4629.31, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 139.706685 
+ Epoch 1, Batch: 345, Train Loss 138902.52, Train Accu 0.1060, Test Loss 4628.99, Test Accu 0.1080
+Alg: normalized_grad_desc. Regret 138.264713 
+ Epoch 1, Batch: 346, Train Loss 138912.06, Train Accu 0.1055, Test Loss 4629.32, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 136.931114 
+ Epoch 1, Batch: 347, Train Loss 138921.29, Train Accu 0.1051, Test Loss 4629.62, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 139.379293 
+ Epoch 1, Batch: 348, Train Loss 138912.23, Train Accu 0.1058, Test Loss 4629.36, Test Accu 0.1090
+Alg: normalized_grad_desc. Regret 139.943620 
+ Epoch 1, Batch: 349, Train Loss 138925.18, Train Accu 0.1054, Test Loss 4629.74, Test Accu 0.1075
+Alg: normalized_grad_desc. Regret 140.157022 
+ Epoch 1, Batch: 350, Train Loss 138935.50, Train Accu 0.1048, Test Loss 4630.04, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 138.569444 
+ Epoch 1, Batch: 351, Train Loss 138947.51, Train Accu 0.1045, Test Loss 4630.40, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 139.774313 
+ Epoch 1, Batch: 352, Train Loss 138958.19, Train Accu 0.1042, Test Loss 4630.70, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 137.274323 
+ Epoch 1, Batch: 353, Train Loss 138947.04, Train Accu 0.1047, Test Loss 4630.35, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 139.739947 
+ Epoch 1, Batch: 354, Train Loss 138956.77, Train Accu 0.1042, Test Loss 4630.62, Test Accu 0.1060
+Alg: normalized_grad_desc. Regret 138.814414 
+ Epoch 1, Batch: 355, Train Loss 138966.94, Train Accu 0.1039, Test Loss 4630.95, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 138.037294 
+ Epoch 1, Batch: 356, Train Loss 138978.49, Train Accu 0.1035, Test Loss 4631.29, Test Accu 0.1040
+Alg: normalized_grad_desc. Regret 138.606752 
+ Epoch 1, Batch: 357, Train Loss 138990.98, Train Accu 0.1028, Test Loss 4631.67, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 139.268763 
+ Epoch 1, Batch: 358, Train Loss 139002.94, Train Accu 0.1024, Test Loss 4632.01, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 141.627012 
+ Epoch 1, Batch: 359, Train Loss 138992.53, Train Accu 0.1027, Test Loss 4631.69, Test Accu 0.1040
+Alg: normalized_grad_desc. Regret 138.780862 
+ Epoch 1, Batch: 360, Train Loss 139003.53, Train Accu 0.1023, Test Loss 4632.02, Test Accu 0.1040
+Alg: normalized_grad_desc. Regret 139.130234 
+ Epoch 1, Batch: 361, Train Loss 139015.13, Train Accu 0.1018, Test Loss 4632.39, Test Accu 0.1030
+Alg: normalized_grad_desc. Regret 138.638937 
+ Epoch 1, Batch: 362, Train Loss 139026.84, Train Accu 0.1012, Test Loss 4632.73, Test Accu 0.1030
+Alg: normalized_grad_desc. Regret 139.197790 
+ Epoch 1, Batch: 363, Train Loss 139038.02, Train Accu 0.1010, Test Loss 4633.08, Test Accu 0.1030
+Alg: normalized_grad_desc. Regret 140.132559 
+ Epoch 1, Batch: 364, Train Loss 139029.42, Train Accu 0.1014, Test Loss 4632.80, Test Accu 0.1030
+Alg: normalized_grad_desc. Regret 139.931054 
+ Epoch 1, Batch: 365, Train Loss 139016.71, Train Accu 0.1017, Test Loss 4632.42, Test Accu 0.1035
+Alg: normalized_grad_desc. Regret 141.412923 
+ Epoch 1, Batch: 366, Train Loss 139005.51, Train Accu 0.1023, Test Loss 4632.09, Test Accu 0.1040
+Alg: normalized_grad_desc. Regret 138.930746 
+ Epoch 1, Batch: 367, Train Loss 139016.33, Train Accu 0.1020, Test Loss 4632.43, Test Accu 0.1040
+Alg: normalized_grad_desc. Regret 138.592981 
+ Epoch 1, Batch: 368, Train Loss 139005.22, Train Accu 0.1024, Test Loss 4632.09, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 138.885164 
+ Epoch 1, Batch: 369, Train Loss 138994.86, Train Accu 0.1030, Test Loss 4631.79, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 137.939010 
+ Epoch 1, Batch: 370, Train Loss 138983.73, Train Accu 0.1033, Test Loss 4631.45, Test Accu 0.1060
+Alg: normalized_grad_desc. Regret 140.235669 
+ Epoch 1, Batch: 371, Train Loss 138996.74, Train Accu 0.1029, Test Loss 4631.85, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 138.957227 
+ Epoch 1, Batch: 372, Train Loss 138986.27, Train Accu 0.1032, Test Loss 4631.52, Test Accu 0.1060
+Alg: normalized_grad_desc. Regret 138.022591 
+ Epoch 1, Batch: 373, Train Loss 138976.87, Train Accu 0.1037, Test Loss 4631.22, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 137.020671 
+ Epoch 1, Batch: 374, Train Loss 138987.74, Train Accu 0.1033, Test Loss 4631.53, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 138.955825 
+ Epoch 1, Batch: 375, Train Loss 138998.42, Train Accu 0.1027, Test Loss 4631.84, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 138.589625 
+ Epoch 1, Batch: 376, Train Loss 138986.91, Train Accu 0.1030, Test Loss 4631.47, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 137.800147 
+ Epoch 1, Batch: 377, Train Loss 138976.45, Train Accu 0.1034, Test Loss 4631.13, Test Accu 0.1060
+Alg: normalized_grad_desc. Regret 139.523234 
+ Epoch 1, Batch: 378, Train Loss 138966.11, Train Accu 0.1037, Test Loss 4630.84, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 138.386813 
+ Epoch 1, Batch: 379, Train Loss 138955.92, Train Accu 0.1040, Test Loss 4630.52, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 137.677046 
+ Epoch 1, Batch: 380, Train Loss 138967.46, Train Accu 0.1034, Test Loss 4630.84, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 139.530633 
+ Epoch 1, Batch: 381, Train Loss 138958.29, Train Accu 0.1041, Test Loss 4630.56, Test Accu 0.1070
+Alg: normalized_grad_desc. Regret 141.039615 
+ Epoch 1, Batch: 382, Train Loss 138968.91, Train Accu 0.1036, Test Loss 4630.90, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 138.224821 
+ Epoch 1, Batch: 383, Train Loss 138980.48, Train Accu 0.1032, Test Loss 4631.25, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 138.551128 
+ Epoch 1, Batch: 384, Train Loss 138991.76, Train Accu 0.1027, Test Loss 4631.58, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 140.108703 
+ Epoch 1, Batch: 385, Train Loss 139003.08, Train Accu 0.1021, Test Loss 4631.90, Test Accu 0.1040
+Alg: normalized_grad_desc. Regret 138.597020 
+ Epoch 1, Batch: 386, Train Loss 139014.72, Train Accu 0.1019, Test Loss 4632.25, Test Accu 0.1035
+Alg: normalized_grad_desc. Regret 138.749827 
+ Epoch 1, Batch: 387, Train Loss 139025.28, Train Accu 0.1014, Test Loss 4632.55, Test Accu 0.1030
+Alg: normalized_grad_desc. Regret 137.948274 
+ Epoch 1, Batch: 388, Train Loss 139016.40, Train Accu 0.1016, Test Loss 4632.26, Test Accu 0.1030
+Alg: normalized_grad_desc. Regret 138.649236 
+ Epoch 1, Batch: 389, Train Loss 139026.85, Train Accu 0.1011, Test Loss 4632.59, Test Accu 0.1025
+Alg: normalized_grad_desc. Regret 139.100357 
+ Epoch 1, Batch: 390, Train Loss 139039.44, Train Accu 0.1007, Test Loss 4632.95, Test Accu 0.1030
+Alg: normalized_grad_desc. Regret 138.644752 
+ Epoch 1, Batch: 391, Train Loss 139050.54, Train Accu 0.1004, Test Loss 4633.28, Test Accu 0.1025
+Alg: normalized_grad_desc. Regret 138.895609 
+ Epoch 1, Batch: 392, Train Loss 139039.36, Train Accu 0.1007, Test Loss 4632.95, Test Accu 0.1030
+Alg: normalized_grad_desc. Regret 138.378827 
+ Epoch 1, Batch: 393, Train Loss 139049.35, Train Accu 0.1004, Test Loss 4633.25, Test Accu 0.1020
+Alg: normalized_grad_desc. Regret 140.860501 
+ Epoch 1, Batch: 394, Train Loss 139038.24, Train Accu 0.1008, Test Loss 4632.90, Test Accu 0.1030
+Alg: normalized_grad_desc. Regret 137.179901 
+ Epoch 1, Batch: 395, Train Loss 139026.11, Train Accu 0.1012, Test Loss 4632.55, Test Accu 0.1035
+Alg: normalized_grad_desc. Regret 139.562246 
+ Epoch 1, Batch: 396, Train Loss 139035.72, Train Accu 0.1007, Test Loss 4632.81, Test Accu 0.1030
+Alg: normalized_grad_desc. Regret 138.230411 
+ Epoch 1, Batch: 397, Train Loss 139047.98, Train Accu 0.1004, Test Loss 4633.19, Test Accu 0.1025
+Alg: normalized_grad_desc. Regret 139.153699 
+ Epoch 1, Batch: 398, Train Loss 139059.34, Train Accu 0.1001, Test Loss 4633.56, Test Accu 0.1015
+Alg: normalized_grad_desc. Regret 139.218714 
+ Epoch 1, Batch: 399, Train Loss 139048.42, Train Accu 0.1004, Test Loss 4633.23, Test Accu 0.1020
+Alg: normalized_grad_desc. Regret 139.357300 
+ Epoch 1, Batch: 400, Train Loss 139058.02, Train Accu 0.1001, Test Loss 4633.50, Test Accu 0.1015
+Alg: normalized_grad_desc. Regret 140.078860 
+ Epoch 1, Batch: 401, Train Loss 139070.28, Train Accu 0.0998, Test Loss 4633.86, Test Accu 0.1010
+Alg: normalized_grad_desc. Regret 139.450371 
+ Epoch 1, Batch: 402, Train Loss 139083.13, Train Accu 0.0993, Test Loss 4634.25, Test Accu 0.1010
+Alg: normalized_grad_desc. Regret 139.719892 
+ Epoch 1, Batch: 403, Train Loss 139072.84, Train Accu 0.0997, Test Loss 4633.94, Test Accu 0.1015
+Alg: normalized_grad_desc. Regret 139.185839 
+ Epoch 1, Batch: 404, Train Loss 139083.97, Train Accu 0.0990, Test Loss 4634.26, Test Accu 0.1015
+Alg: normalized_grad_desc. Regret 139.197870 
+ Epoch 1, Batch: 405, Train Loss 139071.97, Train Accu 0.0997, Test Loss 4633.92, Test Accu 0.1015
+Alg: normalized_grad_desc. Regret 139.509742 
+ Epoch 1, Batch: 406, Train Loss 139083.00, Train Accu 0.0992, Test Loss 4634.24, Test Accu 0.1015
+Alg: normalized_grad_desc. Regret 137.724243 
+ Epoch 1, Batch: 407, Train Loss 139093.99, Train Accu 0.0988, Test Loss 4634.56, Test Accu 0.1010
+Alg: normalized_grad_desc. Regret 138.521292 
+ Epoch 1, Batch: 408, Train Loss 139102.18, Train Accu 0.0984, Test Loss 4634.83, Test Accu 0.1010
+Alg: normalized_grad_desc. Regret 138.592263 
+ Epoch 1, Batch: 409, Train Loss 139091.59, Train Accu 0.0989, Test Loss 4634.51, Test Accu 0.1010
+Alg: normalized_grad_desc. Regret 143.066308 
+ Epoch 1, Batch: 410, Train Loss 139079.12, Train Accu 0.0992, Test Loss 4634.13, Test Accu 0.1010
+Alg: normalized_grad_desc. Regret 140.304013 
+ Epoch 1, Batch: 411, Train Loss 139069.32, Train Accu 0.0994, Test Loss 4633.82, Test Accu 0.1015
+Alg: normalized_grad_desc. Regret 139.841978 
+ Epoch 1, Batch: 412, Train Loss 139080.89, Train Accu 0.0991, Test Loss 4634.17, Test Accu 0.1010
+Alg: normalized_grad_desc. Regret 139.082574 
+ Epoch 1, Batch: 413, Train Loss 139068.40, Train Accu 0.0994, Test Loss 4633.80, Test Accu 0.1010
+Alg: normalized_grad_desc. Regret 139.630742 
+ Epoch 1, Batch: 414, Train Loss 139056.77, Train Accu 0.1001, Test Loss 4633.44, Test Accu 0.1020
+Alg: normalized_grad_desc. Regret 139.181923 
+ Epoch 1, Batch: 415, Train Loss 139068.27, Train Accu 0.0995, Test Loss 4633.76, Test Accu 0.1015
+Alg: normalized_grad_desc. Regret 139.385435 
+ Epoch 1, Batch: 416, Train Loss 139056.01, Train Accu 0.1001, Test Loss 4633.40, Test Accu 0.1020
+Alg: normalized_grad_desc. Regret 139.669459 
+ Epoch 1, Batch: 417, Train Loss 139067.02, Train Accu 0.0998, Test Loss 4633.72, Test Accu 0.1020
+Alg: normalized_grad_desc. Regret 139.629196 
+ Epoch 1, Batch: 418, Train Loss 139079.23, Train Accu 0.0993, Test Loss 4634.09, Test Accu 0.1015
+Alg: normalized_grad_desc. Regret 138.944033 
+ Epoch 1, Batch: 419, Train Loss 139068.67, Train Accu 0.0998, Test Loss 4633.77, Test Accu 0.1020
+Alg: normalized_grad_desc. Regret 137.852341 
+ Epoch 1, Batch: 420, Train Loss 139080.16, Train Accu 0.0992, Test Loss 4634.12, Test Accu 0.1015
+Alg: normalized_grad_desc. Regret 138.647114 
+ Epoch 1, Batch: 421, Train Loss 139090.75, Train Accu 0.0988, Test Loss 4634.44, Test Accu 0.1010
+Alg: normalized_grad_desc. Regret 141.031123 
+ Epoch 1, Batch: 422, Train Loss 139079.21, Train Accu 0.0991, Test Loss 4634.13, Test Accu 0.1015
+Alg: normalized_grad_desc. Regret 140.928223 
+ Epoch 1, Batch: 423, Train Loss 139067.74, Train Accu 0.0997, Test Loss 4633.79, Test Accu 0.1025
+Alg: normalized_grad_desc. Regret 138.803307 
+ Epoch 1, Batch: 424, Train Loss 139078.13, Train Accu 0.0992, Test Loss 4634.11, Test Accu 0.1020
+Alg: normalized_grad_desc. Regret 139.210193 
+ Epoch 1, Batch: 425, Train Loss 139090.23, Train Accu 0.0988, Test Loss 4634.44, Test Accu 0.1010
+Alg: normalized_grad_desc. Regret 137.820794 
+ Epoch 1, Batch: 426, Train Loss 139078.75, Train Accu 0.0992, Test Loss 4634.11, Test Accu 0.1015
+Alg: normalized_grad_desc. Regret 138.752051 
+ Epoch 1, Batch: 427, Train Loss 139087.70, Train Accu 0.0990, Test Loss 4634.34, Test Accu 0.1015
+Alg: normalized_grad_desc. Regret 138.621145 
+ Epoch 1, Batch: 428, Train Loss 139075.58, Train Accu 0.0994, Test Loss 4633.99, Test Accu 0.1020
+Alg: normalized_grad_desc. Regret 140.305786 
+ Epoch 1, Batch: 429, Train Loss 139086.26, Train Accu 0.0990, Test Loss 4634.31, Test Accu 0.1015
+Alg: normalized_grad_desc. Regret 140.196344 
+ Epoch 1, Batch: 430, Train Loss 139076.15, Train Accu 0.0995, Test Loss 4633.97, Test Accu 0.1010
+Alg: normalized_grad_desc. Regret 138.268183 
+ Epoch 1, Batch: 431, Train Loss 139065.28, Train Accu 0.0999, Test Loss 4633.64, Test Accu 0.1015
+Alg: normalized_grad_desc. Regret 139.146149 
+ Epoch 1, Batch: 432, Train Loss 139053.59, Train Accu 0.1002, Test Loss 4633.29, Test Accu 0.1015
+Alg: normalized_grad_desc. Regret 138.263766 
+ Epoch 1, Batch: 433, Train Loss 139065.24, Train Accu 0.0998, Test Loss 4633.63, Test Accu 0.1015
+Alg: normalized_grad_desc. Regret 140.144808 
+ Epoch 1, Batch: 434, Train Loss 139054.90, Train Accu 0.1004, Test Loss 4633.33, Test Accu 0.1025
+Alg: normalized_grad_desc. Regret 139.934058 
+ Epoch 1, Batch: 435, Train Loss 139065.59, Train Accu 0.0999, Test Loss 4633.67, Test Accu 0.1025
+Alg: normalized_grad_desc. Regret 138.339640 
+ Epoch 1, Batch: 436, Train Loss 139077.47, Train Accu 0.0994, Test Loss 4634.02, Test Accu 0.1025
+Alg: normalized_grad_desc. Regret 138.355509 
+ Epoch 1, Batch: 437, Train Loss 139066.17, Train Accu 0.1001, Test Loss 4633.69, Test Accu 0.1025
+Alg: normalized_grad_desc. Regret 139.475268 
+ Epoch 1, Batch: 438, Train Loss 139055.38, Train Accu 0.1004, Test Loss 4633.37, Test Accu 0.1025
+Alg: normalized_grad_desc. Regret 137.980486 
+ Epoch 1, Batch: 439, Train Loss 139046.14, Train Accu 0.1007, Test Loss 4633.04, Test Accu 0.1025
+Alg: normalized_grad_desc. Regret 139.442631 
+ Epoch 1, Batch: 440, Train Loss 139035.99, Train Accu 0.1012, Test Loss 4632.74, Test Accu 0.1030
+Alg: normalized_grad_desc. Regret 139.527515 
+ Epoch 1, Batch: 441, Train Loss 139047.78, Train Accu 0.1009, Test Loss 4633.10, Test Accu 0.1025
+Alg: normalized_grad_desc. Regret 139.032065 
+ Epoch 1, Batch: 442, Train Loss 139059.39, Train Accu 0.1003, Test Loss 4633.44, Test Accu 0.1025
+Alg: normalized_grad_desc. Regret 139.679003 
+ Epoch 1, Batch: 443, Train Loss 139047.31, Train Accu 0.1009, Test Loss 4633.09, Test Accu 0.1020
+Alg: normalized_grad_desc. Regret 137.292933 
+ Epoch 1, Batch: 444, Train Loss 139056.55, Train Accu 0.1004, Test Loss 4633.36, Test Accu 0.1025
+Alg: normalized_grad_desc. Regret 138.316594 
+ Epoch 1, Batch: 445, Train Loss 139066.85, Train Accu 0.1000, Test Loss 4633.66, Test Accu 0.1020
+Alg: normalized_grad_desc. Regret 139.559007 
+ Epoch 1, Batch: 446, Train Loss 139055.50, Train Accu 0.1004, Test Loss 4633.31, Test Accu 0.1025
+Alg: normalized_grad_desc. Regret 139.070061 
+ Epoch 1, Batch: 447, Train Loss 139043.13, Train Accu 0.1007, Test Loss 4632.94, Test Accu 0.1035
+Alg: normalized_grad_desc. Regret 139.413605 
+ Epoch 1, Batch: 448, Train Loss 139032.98, Train Accu 0.1011, Test Loss 4632.64, Test Accu 0.1035
+Alg: normalized_grad_desc. Regret 138.077400 
+ Epoch 1, Batch: 449, Train Loss 139045.44, Train Accu 0.1007, Test Loss 4633.01, Test Accu 0.1040
+Alg: normalized_grad_desc. Regret 139.019824 
+ Epoch 1, Batch: 450, Train Loss 139033.83, Train Accu 0.1010, Test Loss 4632.66, Test Accu 0.1040
+Alg: normalized_grad_desc. Regret 138.547360 
+ Epoch 1, Batch: 451, Train Loss 139044.24, Train Accu 0.1005, Test Loss 4632.99, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 139.446000 
+ Epoch 1, Batch: 452, Train Loss 139033.12, Train Accu 0.1014, Test Loss 4632.67, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 138.138994 
+ Epoch 1, Batch: 453, Train Loss 139044.04, Train Accu 0.1009, Test Loss 4633.03, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 141.014891 
+ Epoch 1, Batch: 454, Train Loss 139032.83, Train Accu 0.1013, Test Loss 4632.69, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 138.717004 
+ Epoch 1, Batch: 455, Train Loss 139022.45, Train Accu 0.1017, Test Loss 4632.35, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 138.444657 
+ Epoch 1, Batch: 456, Train Loss 139032.56, Train Accu 0.1013, Test Loss 4632.65, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 139.187869 
+ Epoch 1, Batch: 457, Train Loss 139043.56, Train Accu 0.1009, Test Loss 4632.98, Test Accu 0.1040
+Alg: normalized_grad_desc. Regret 138.567834 
+ Epoch 1, Batch: 458, Train Loss 139032.07, Train Accu 0.1013, Test Loss 4632.62, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 139.055440 
+ Epoch 1, Batch: 459, Train Loss 139042.03, Train Accu 0.1010, Test Loss 4632.95, Test Accu 0.1035
+Alg: normalized_grad_desc. Regret 139.218925 
+ Epoch 1, Batch: 460, Train Loss 139052.82, Train Accu 0.1004, Test Loss 4633.27, Test Accu 0.1040
+Alg: normalized_grad_desc. Regret 140.188487 
+ Epoch 1, Batch: 461, Train Loss 139042.37, Train Accu 0.1010, Test Loss 4632.99, Test Accu 0.1040
+Alg: normalized_grad_desc. Regret 138.931238 
+ Epoch 1, Batch: 462, Train Loss 139054.24, Train Accu 0.1007, Test Loss 4633.34, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 139.711632 
+ Epoch 1, Batch: 463, Train Loss 139043.24, Train Accu 0.1010, Test Loss 4633.00, Test Accu 0.1040
+Alg: normalized_grad_desc. Regret 140.164587 
+ Epoch 1, Batch: 464, Train Loss 139054.22, Train Accu 0.1004, Test Loss 4633.32, Test Accu 0.1035
+Alg: normalized_grad_desc. Regret 139.023090 
+ Epoch 1, Batch: 465, Train Loss 139065.99, Train Accu 0.1001, Test Loss 4633.68, Test Accu 0.1025
+Alg: normalized_grad_desc. Regret 139.611780 
+ Epoch 1, Batch: 466, Train Loss 139055.39, Train Accu 0.1004, Test Loss 4633.34, Test Accu 0.1030
+Alg: normalized_grad_desc. Regret 137.492554 
+ Epoch 1, Batch: 467, Train Loss 139045.86, Train Accu 0.1008, Test Loss 4633.04, Test Accu 0.1025
+Alg: normalized_grad_desc. Regret 139.416624 
+ Epoch 1, Batch: 468, Train Loss 139057.02, Train Accu 0.1001, Test Loss 4633.39, Test Accu 0.1030
+Alg: normalized_grad_desc. Regret 140.742275 
+ Epoch 1, Batch: 469, Train Loss 139069.05, Train Accu 0.0995, Test Loss 4633.77, Test Accu 0.1020
+Alg: normalized_grad_desc. Regret 140.272760 
+ Epoch 1, Batch: 470, Train Loss 139056.69, Train Accu 0.0999, Test Loss 4633.40, Test Accu 0.1020
+Alg: normalized_grad_desc. Regret 140.689101 
+ Epoch 1, Batch: 471, Train Loss 139044.72, Train Accu 0.1004, Test Loss 4633.04, Test Accu 0.1020
+Alg: normalized_grad_desc. Regret 139.214105 
+ Epoch 1, Batch: 472, Train Loss 139056.42, Train Accu 0.1001, Test Loss 4633.41, Test Accu 0.1020
+Alg: normalized_grad_desc. Regret 139.377572 
+ Epoch 1, Batch: 473, Train Loss 139068.45, Train Accu 0.0995, Test Loss 4633.78, Test Accu 0.1020
+Alg: normalized_grad_desc. Regret 138.568713 
+ Epoch 1, Batch: 474, Train Loss 139057.70, Train Accu 0.1000, Test Loss 4633.47, Test Accu 0.1020
+Alg: normalized_grad_desc. Regret 139.857505 
+ Epoch 1, Batch: 475, Train Loss 139069.41, Train Accu 0.0994, Test Loss 4633.82, Test Accu 0.1020
+Alg: normalized_grad_desc. Regret 137.653610 
+ Epoch 1, Batch: 476, Train Loss 139059.49, Train Accu 0.1001, Test Loss 4633.50, Test Accu 0.1020
+Alg: normalized_grad_desc. Regret 136.878811 
+ Epoch 1, Batch: 477, Train Loss 139049.35, Train Accu 0.1006, Test Loss 4633.21, Test Accu 0.1035
+Alg: normalized_grad_desc. Regret 139.811967 
+ Epoch 1, Batch: 478, Train Loss 139039.33, Train Accu 0.1013, Test Loss 4632.91, Test Accu 0.1035
+Alg: normalized_grad_desc. Regret 140.574437 
+ Epoch 1, Batch: 479, Train Loss 139050.55, Train Accu 0.1009, Test Loss 4633.24, Test Accu 0.1035
+Alg: normalized_grad_desc. Regret 139.485500 
+ Epoch 1, Batch: 480, Train Loss 139039.03, Train Accu 0.1010, Test Loss 4632.86, Test Accu 0.1035
+Alg: normalized_grad_desc. Regret 140.380433 
+ Epoch 1, Batch: 481, Train Loss 139029.71, Train Accu 0.1015, Test Loss 4632.55, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 140.929337 
+ Epoch 1, Batch: 482, Train Loss 139018.98, Train Accu 0.1017, Test Loss 4632.25, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 140.310028 
+ Epoch 1, Batch: 483, Train Loss 139007.32, Train Accu 0.1020, Test Loss 4631.92, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 138.764543 
+ Epoch 1, Batch: 484, Train Loss 139018.10, Train Accu 0.1016, Test Loss 4632.25, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 137.817464 
+ Epoch 1, Batch: 485, Train Loss 139030.11, Train Accu 0.1012, Test Loss 4632.62, Test Accu 0.1035
+Alg: normalized_grad_desc. Regret 140.080843 
+ Epoch 1, Batch: 486, Train Loss 139040.25, Train Accu 0.1009, Test Loss 4632.95, Test Accu 0.1030
+Alg: normalized_grad_desc. Regret 139.325548 
+ Epoch 1, Batch: 487, Train Loss 139028.60, Train Accu 0.1013, Test Loss 4632.62, Test Accu 0.1040
+Alg: normalized_grad_desc. Regret 139.007306 
+ Epoch 1, Batch: 488, Train Loss 139039.24, Train Accu 0.1008, Test Loss 4632.96, Test Accu 0.1030
+Alg: normalized_grad_desc. Regret 139.699800 
+ Epoch 1, Batch: 489, Train Loss 139051.27, Train Accu 0.1003, Test Loss 4633.31, Test Accu 0.1030
+Alg: normalized_grad_desc. Regret 138.632544 
+ Epoch 1, Batch: 490, Train Loss 139062.00, Train Accu 0.1002, Test Loss 4633.64, Test Accu 0.1035
+Alg: normalized_grad_desc. Regret 138.391049 
+ Epoch 1, Batch: 491, Train Loss 139052.40, Train Accu 0.1004, Test Loss 4633.31, Test Accu 0.1040
+Alg: normalized_grad_desc. Regret 140.330334 
+ Epoch 1, Batch: 492, Train Loss 139063.91, Train Accu 0.1001, Test Loss 4633.64, Test Accu 0.1040
+Alg: normalized_grad_desc. Regret 138.801798 
+ Epoch 1, Batch: 493, Train Loss 139076.67, Train Accu 0.0997, Test Loss 4634.02, Test Accu 0.1025
+Alg: normalized_grad_desc. Regret 138.098584 
+ Epoch 1, Batch: 494, Train Loss 139065.69, Train Accu 0.1000, Test Loss 4633.70, Test Accu 0.1035
+Alg: normalized_grad_desc. Regret 139.467196 
+ Epoch 1, Batch: 495, Train Loss 139075.40, Train Accu 0.0997, Test Loss 4634.01, Test Accu 0.1035
+Alg: normalized_grad_desc. Regret 138.705197 
+ Epoch 1, Batch: 496, Train Loss 139086.32, Train Accu 0.0994, Test Loss 4634.32, Test Accu 0.1025
+Alg: normalized_grad_desc. Regret 139.576044 
+ Epoch 1, Batch: 497, Train Loss 139074.93, Train Accu 0.0998, Test Loss 4633.99, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 139.858441 
+ Epoch 1, Batch: 498, Train Loss 139064.48, Train Accu 0.1001, Test Loss 4633.71, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 139.062581 
+ Epoch 1, Batch: 499, Train Loss 139052.10, Train Accu 0.1003, Test Loss 4633.35, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 139.269564 
+ Epoch 1, Batch: 500, Train Loss 139062.21, Train Accu 0.1000, Test Loss 4633.65, Test Accu 0.1045
+Alg: normalized_grad_desc. Regret 139.502639 
+ Epoch 1, Batch: 501, Train Loss 139051.16, Train Accu 0.1003, Test Loss 4633.29, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 139.500940 
+ Epoch 1, Batch: 502, Train Loss 139038.97, Train Accu 0.1008, Test Loss 4632.95, Test Accu 0.1055
+Alg: normalized_grad_desc. Regret 139.581730 
+ Epoch 1, Batch: 503, Train Loss 139051.11, Train Accu 0.1003, Test Loss 4633.33, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 138.805437 
+ Epoch 1, Batch: 504, Train Loss 139060.95, Train Accu 0.1001, Test Loss 4633.64, Test Accu 0.1050
+Alg: normalized_grad_desc. Regret 138.480922 
+ Epoch 1, Batch: 505, Train Loss 139072.77, Train Accu 0.0996, Test Loss 4634.00, Test Accu 0.1040
+Alg: normalized_grad_desc. Regret 140.273835 
+ Epoch 1, Batch: 506, Train Loss 139081.07, Train Accu 0.0995, Test Loss 4634.27, Test Accu 0.1035
+Alg: normalized_grad_desc. Regret 139.431281 
+ Epoch 1, Batch: 507, Train Loss 139071.66, Train Accu 0.0997, Test Loss 4633.99, Test Accu 0.1035
+Alg: normalized_grad_desc. Regret 137.927986 
+ Epoch 1, Batch: 508, Train Loss 139081.34, Train Accu 0.0993, Test Loss 4634.27, Test Accu 0.1030
+Alg: normalized_grad_desc. Regret 139.893080 
+ Epoch 1, Batch: 509, Train Loss 139091.71, Train Accu 0.0988, Test Loss 4634.59, Test Accu 0.1025
+Alg: normalized_grad_desc. Regret 139.001603 
+ Epoch 1, Batch: 510, Train Loss 139102.31, Train Accu 0.0985, Test Loss 4634.92, Test Accu 0.1025
+Alg: normalized_grad_desc. Regret 138.461560 
+ Epoch 1, Batch: 511, Train Loss 139114.56, Train Accu 0.0979, Test Loss 4635.29, Test Accu 0.1025
+Alg: normalized_grad_desc. Regret 138.684734 
+ Epoch 1, Batch: 512, Train Loss 139126.15, Train Accu 0.0973, Test Loss 4635.61, Test Accu 0.1025
+Alg: normalized_grad_desc. Regret 139.790990 
+ Epoch 1, Batch: 513, Train Loss 139137.68, Train Accu 0.0969, Test Loss 4635.96, Test Accu 0.1020
+Alg: normalized_grad_desc. Regret 137.881529 
+ Epoch 1, Batch: 514, Train Loss 139148.93, Train Accu 0.0963, Test Loss 4636.29, Test Accu 0.1010
+Alg: normalized_grad_desc. Regret 138.957498 
+ Epoch 1, Batch: 515, Train Loss 139159.61, Train Accu 0.0958, Test Loss 4636.61, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 138.762008 
+ Epoch 1, Batch: 516, Train Loss 139171.36, Train Accu 0.0953, Test Loss 4636.97, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.072368 
+ Epoch 1, Batch: 517, Train Loss 139159.56, Train Accu 0.0957, Test Loss 4636.61, Test Accu 0.1000
+Alg: normalized_grad_desc. Regret 137.915885 
+ Epoch 1, Batch: 518, Train Loss 139147.49, Train Accu 0.0960, Test Loss 4636.26, Test Accu 0.1005
+Alg: normalized_grad_desc. Regret 140.105221 
+ Epoch 1, Batch: 519, Train Loss 139157.34, Train Accu 0.0956, Test Loss 4636.57, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 138.107095 
+ Epoch 1, Batch: 520, Train Loss 139145.80, Train Accu 0.0961, Test Loss 4636.19, Test Accu 0.0995
+Alg: normalized_grad_desc. Regret 138.815737 
+ Epoch 1, Batch: 521, Train Loss 139133.95, Train Accu 0.0966, Test Loss 4635.84, Test Accu 0.1020
+Alg: normalized_grad_desc. Regret 139.763034 
+ Epoch 1, Batch: 522, Train Loss 139146.36, Train Accu 0.0961, Test Loss 4636.20, Test Accu 0.1010
+Alg: normalized_grad_desc. Regret 139.627887 
+ Epoch 1, Batch: 523, Train Loss 139158.73, Train Accu 0.0958, Test Loss 4636.54, Test Accu 0.0995
+Alg: normalized_grad_desc. Regret 139.822440 
+ Epoch 1, Batch: 524, Train Loss 139147.97, Train Accu 0.0961, Test Loss 4636.19, Test Accu 0.1000
+Alg: normalized_grad_desc. Regret 137.913752 
+ Epoch 1, Batch: 525, Train Loss 139158.90, Train Accu 0.0958, Test Loss 4636.54, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 140.560054 
+ Epoch 1, Batch: 526, Train Loss 139170.78, Train Accu 0.0951, Test Loss 4636.90, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 139.861602 
+ Epoch 1, Batch: 527, Train Loss 139183.56, Train Accu 0.0948, Test Loss 4637.26, Test Accu 0.0965
+Alg: normalized_grad_desc. Regret 139.164354 
+ Epoch 1, Batch: 528, Train Loss 139172.80, Train Accu 0.0951, Test Loss 4636.93, Test Accu 0.0970
+Alg: normalized_grad_desc. Regret 137.617913 
+ Epoch 1, Batch: 529, Train Loss 139184.05, Train Accu 0.0947, Test Loss 4637.27, Test Accu 0.0965
+Alg: normalized_grad_desc. Regret 137.862966 
+ Epoch 1, Batch: 530, Train Loss 139174.57, Train Accu 0.0951, Test Loss 4637.00, Test Accu 0.0970
+Alg: normalized_grad_desc. Regret 139.219812 
+ Epoch 1, Batch: 531, Train Loss 139184.03, Train Accu 0.0948, Test Loss 4637.30, Test Accu 0.0965
+Alg: normalized_grad_desc. Regret 140.263006 
+ Epoch 1, Batch: 532, Train Loss 139174.71, Train Accu 0.0955, Test Loss 4637.00, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 139.158670 
+ Epoch 1, Batch: 533, Train Loss 139186.49, Train Accu 0.0949, Test Loss 4637.37, Test Accu 0.0970
+Alg: normalized_grad_desc. Regret 137.955932 
+ Epoch 1, Batch: 534, Train Loss 139197.14, Train Accu 0.0945, Test Loss 4637.71, Test Accu 0.0960
+Alg: normalized_grad_desc. Regret 139.465260 
+ Epoch 1, Batch: 535, Train Loss 139205.74, Train Accu 0.0944, Test Loss 4638.00, Test Accu 0.0955
+Alg: normalized_grad_desc. Regret 139.381470 
+ Epoch 1, Batch: 536, Train Loss 139194.88, Train Accu 0.0946, Test Loss 4637.70, Test Accu 0.0960
+Alg: normalized_grad_desc. Regret 137.791645 
+ Epoch 1, Batch: 537, Train Loss 139205.55, Train Accu 0.0944, Test Loss 4638.02, Test Accu 0.0965
+Alg: normalized_grad_desc. Regret 137.487406 
+ Epoch 1, Batch: 538, Train Loss 139215.99, Train Accu 0.0940, Test Loss 4638.34, Test Accu 0.0960
+Alg: normalized_grad_desc. Regret 141.075878 
+ Epoch 1, Batch: 539, Train Loss 139206.06, Train Accu 0.0945, Test Loss 4638.03, Test Accu 0.0965
+Alg: normalized_grad_desc. Regret 138.527746 
+ Epoch 1, Batch: 540, Train Loss 139194.69, Train Accu 0.0947, Test Loss 4637.69, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 138.852820 
+ Epoch 1, Batch: 541, Train Loss 139204.47, Train Accu 0.0943, Test Loss 4637.98, Test Accu 0.0965
+Alg: normalized_grad_desc. Regret 140.219437 
+ Epoch 1, Batch: 542, Train Loss 139192.99, Train Accu 0.0947, Test Loss 4637.65, Test Accu 0.0970
+Alg: normalized_grad_desc. Regret 139.493983 
+ Epoch 1, Batch: 543, Train Loss 139181.10, Train Accu 0.0952, Test Loss 4637.32, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.666943 
+ Epoch 1, Batch: 544, Train Loss 139170.04, Train Accu 0.0957, Test Loss 4636.97, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 137.769109 
+ Epoch 1, Batch: 545, Train Loss 139181.43, Train Accu 0.0952, Test Loss 4637.31, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 137.677184 
+ Epoch 1, Batch: 546, Train Loss 139171.03, Train Accu 0.0958, Test Loss 4636.97, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.110138 
+ Epoch 1, Batch: 547, Train Loss 139182.56, Train Accu 0.0953, Test Loss 4637.33, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.081557 
+ Epoch 1, Batch: 548, Train Loss 139193.82, Train Accu 0.0949, Test Loss 4637.64, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 138.622052 
+ Epoch 1, Batch: 549, Train Loss 139183.30, Train Accu 0.0950, Test Loss 4637.30, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 139.057309 
+ Epoch 1, Batch: 550, Train Loss 139172.53, Train Accu 0.0952, Test Loss 4636.96, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 139.018776 
+ Epoch 1, Batch: 551, Train Loss 139161.68, Train Accu 0.0955, Test Loss 4636.68, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 138.239028 
+ Epoch 1, Batch: 552, Train Loss 139173.25, Train Accu 0.0951, Test Loss 4637.02, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 137.697415 
+ Epoch 1, Batch: 553, Train Loss 139184.13, Train Accu 0.0947, Test Loss 4637.36, Test Accu 0.0965
+Alg: normalized_grad_desc. Regret 139.244192 
+ Epoch 1, Batch: 554, Train Loss 139192.19, Train Accu 0.0944, Test Loss 4637.63, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 140.196112 
+ Epoch 1, Batch: 555, Train Loss 139180.94, Train Accu 0.0949, Test Loss 4637.28, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 140.562011 
+ Epoch 1, Batch: 556, Train Loss 139169.39, Train Accu 0.0951, Test Loss 4636.91, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 141.478340 
+ Epoch 1, Batch: 557, Train Loss 139158.29, Train Accu 0.0955, Test Loss 4636.58, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 139.043233 
+ Epoch 1, Batch: 558, Train Loss 139147.92, Train Accu 0.0956, Test Loss 4636.25, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 137.294017 
+ Epoch 1, Batch: 559, Train Loss 139158.36, Train Accu 0.0954, Test Loss 4636.53, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 140.818886 
+ Epoch 1, Batch: 560, Train Loss 139148.81, Train Accu 0.0956, Test Loss 4636.26, Test Accu 0.0995
+Alg: normalized_grad_desc. Regret 137.642742 
+ Epoch 1, Batch: 561, Train Loss 139136.58, Train Accu 0.0960, Test Loss 4635.89, Test Accu 0.0995
+Alg: normalized_grad_desc. Regret 139.169787 
+ Epoch 1, Batch: 562, Train Loss 139146.16, Train Accu 0.0955, Test Loss 4636.20, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 140.010854 
+ Epoch 1, Batch: 563, Train Loss 139135.07, Train Accu 0.0960, Test Loss 4635.84, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 139.129577 
+ Epoch 1, Batch: 564, Train Loss 139145.99, Train Accu 0.0959, Test Loss 4636.17, Test Accu 0.0995
+Alg: normalized_grad_desc. Regret 138.786927 
+ Epoch 1, Batch: 565, Train Loss 139156.45, Train Accu 0.0955, Test Loss 4636.50, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 138.320913 
+ Epoch 1, Batch: 566, Train Loss 139167.54, Train Accu 0.0951, Test Loss 4636.85, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 141.136789 
+ Epoch 1, Batch: 567, Train Loss 139178.96, Train Accu 0.0948, Test Loss 4637.18, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 138.624263 
+ Epoch 1, Batch: 568, Train Loss 139189.94, Train Accu 0.0948, Test Loss 4637.49, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 138.596307 
+ Epoch 1, Batch: 569, Train Loss 139199.08, Train Accu 0.0941, Test Loss 4637.77, Test Accu 0.0970
+Alg: normalized_grad_desc. Regret 138.927186 
+ Epoch 1, Batch: 570, Train Loss 139188.68, Train Accu 0.0948, Test Loss 4637.49, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 138.470780 
+ Epoch 1, Batch: 571, Train Loss 139200.81, Train Accu 0.0944, Test Loss 4637.86, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 139.807818 
+ Epoch 1, Batch: 572, Train Loss 139188.39, Train Accu 0.0946, Test Loss 4637.46, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 140.981821 
+ Epoch 1, Batch: 573, Train Loss 139200.73, Train Accu 0.0941, Test Loss 4637.83, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 138.665603 
+ Epoch 1, Batch: 574, Train Loss 139190.62, Train Accu 0.0944, Test Loss 4637.53, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 139.389582 
+ Epoch 1, Batch: 575, Train Loss 139200.51, Train Accu 0.0941, Test Loss 4637.84, Test Accu 0.0965
+Alg: normalized_grad_desc. Regret 138.769692 
+ Epoch 1, Batch: 576, Train Loss 139189.50, Train Accu 0.0945, Test Loss 4637.50, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 140.310527 
+ Epoch 1, Batch: 577, Train Loss 139199.89, Train Accu 0.0943, Test Loss 4637.80, Test Accu 0.0965
+Alg: normalized_grad_desc. Regret 138.876893 
+ Epoch 1, Batch: 578, Train Loss 139211.26, Train Accu 0.0938, Test Loss 4638.11, Test Accu 0.0960
+Alg: normalized_grad_desc. Regret 139.934995 
+ Epoch 1, Batch: 579, Train Loss 139200.90, Train Accu 0.0940, Test Loss 4637.80, Test Accu 0.0965
+Alg: normalized_grad_desc. Regret 139.812845 
+ Epoch 1, Batch: 580, Train Loss 139212.03, Train Accu 0.0938, Test Loss 4638.15, Test Accu 0.0965
+Alg: normalized_grad_desc. Regret 140.788264 
+ Epoch 1, Batch: 581, Train Loss 139223.42, Train Accu 0.0934, Test Loss 4638.48, Test Accu 0.0955
+Alg: normalized_grad_desc. Regret 139.591398 
+ Epoch 1, Batch: 582, Train Loss 139234.33, Train Accu 0.0932, Test Loss 4638.84, Test Accu 0.0950
+Alg: normalized_grad_desc. Regret 138.812262 
+ Epoch 1, Batch: 583, Train Loss 139222.81, Train Accu 0.0933, Test Loss 4638.48, Test Accu 0.0960
+Alg: normalized_grad_desc. Regret 138.139120 
+ Epoch 1, Batch: 584, Train Loss 139211.49, Train Accu 0.0936, Test Loss 4638.15, Test Accu 0.0970
+Alg: normalized_grad_desc. Regret 138.282057 
+ Epoch 1, Batch: 585, Train Loss 139201.91, Train Accu 0.0940, Test Loss 4637.85, Test Accu 0.0970
+Alg: normalized_grad_desc. Regret 137.416078 
+ Epoch 1, Batch: 586, Train Loss 139192.00, Train Accu 0.0945, Test Loss 4637.57, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 139.351068 
+ Epoch 1, Batch: 587, Train Loss 139201.80, Train Accu 0.0942, Test Loss 4637.87, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 139.050601 
+ Epoch 1, Batch: 588, Train Loss 139212.67, Train Accu 0.0939, Test Loss 4638.20, Test Accu 0.0970
+Alg: normalized_grad_desc. Regret 140.470212 
+ Epoch 1, Batch: 589, Train Loss 139200.56, Train Accu 0.0943, Test Loss 4637.84, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.661719 
+ Epoch 1, Batch: 590, Train Loss 139212.00, Train Accu 0.0939, Test Loss 4638.19, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 139.010152 
+ Epoch 1, Batch: 591, Train Loss 139200.43, Train Accu 0.0942, Test Loss 4637.84, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 137.967755 
+ Epoch 1, Batch: 592, Train Loss 139189.33, Train Accu 0.0946, Test Loss 4637.47, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 138.316294 
+ Epoch 1, Batch: 593, Train Loss 139200.91, Train Accu 0.0940, Test Loss 4637.84, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 138.753353 
+ Epoch 1, Batch: 594, Train Loss 139212.22, Train Accu 0.0938, Test Loss 4638.18, Test Accu 0.0970
+Alg: normalized_grad_desc. Regret 140.259659 
+ Epoch 1, Batch: 595, Train Loss 139201.28, Train Accu 0.0941, Test Loss 4637.87, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 140.361235 
+ Epoch 1, Batch: 596, Train Loss 139189.51, Train Accu 0.0945, Test Loss 4637.54, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 137.553337 
+ Epoch 1, Batch: 597, Train Loss 139198.65, Train Accu 0.0942, Test Loss 4637.82, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 138.345257 
+ Epoch 1, Batch: 598, Train Loss 139188.84, Train Accu 0.0946, Test Loss 4637.56, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.239248 
+ Epoch 1, Batch: 599, Train Loss 139200.12, Train Accu 0.0941, Test Loss 4637.88, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.696593 
+ Epoch 1, Batch: 600, Train Loss 139187.66, Train Accu 0.0946, Test Loss 4637.51, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 138.801251 
+ Epoch 1, Batch: 601, Train Loss 139199.63, Train Accu 0.0942, Test Loss 4637.88, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 138.936894 
+ Epoch 1, Batch: 602, Train Loss 139187.65, Train Accu 0.0945, Test Loss 4637.54, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 138.775728 
+ Epoch 1, Batch: 603, Train Loss 139176.56, Train Accu 0.0948, Test Loss 4637.22, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.564271 
+ Epoch 1, Batch: 604, Train Loss 139187.48, Train Accu 0.0945, Test Loss 4637.56, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 137.726267 
+ Epoch 1, Batch: 605, Train Loss 139175.12, Train Accu 0.0949, Test Loss 4637.19, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.660062 
+ Epoch 1, Batch: 606, Train Loss 139186.37, Train Accu 0.0944, Test Loss 4637.53, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.575454 
+ Epoch 1, Batch: 607, Train Loss 139174.80, Train Accu 0.0947, Test Loss 4637.19, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 139.945003 
+ Epoch 1, Batch: 608, Train Loss 139185.80, Train Accu 0.0944, Test Loss 4637.52, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 138.167111 
+ Epoch 1, Batch: 609, Train Loss 139197.03, Train Accu 0.0938, Test Loss 4637.85, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.766950 
+ Epoch 1, Batch: 610, Train Loss 139206.53, Train Accu 0.0934, Test Loss 4638.14, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 139.875693 
+ Epoch 1, Batch: 611, Train Loss 139215.23, Train Accu 0.0932, Test Loss 4638.42, Test Accu 0.0965
+Alg: normalized_grad_desc. Regret 138.648773 
+ Epoch 1, Batch: 612, Train Loss 139226.35, Train Accu 0.0930, Test Loss 4638.75, Test Accu 0.0970
+Alg: normalized_grad_desc. Regret 140.998490 
+ Epoch 1, Batch: 613, Train Loss 139215.86, Train Accu 0.0936, Test Loss 4638.43, Test Accu 0.0970
+Alg: normalized_grad_desc. Regret 139.929011 
+ Epoch 1, Batch: 614, Train Loss 139203.72, Train Accu 0.0938, Test Loss 4638.06, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 138.797628 
+ Epoch 1, Batch: 615, Train Loss 139215.61, Train Accu 0.0935, Test Loss 4638.40, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 139.853492 
+ Epoch 1, Batch: 616, Train Loss 139205.06, Train Accu 0.0939, Test Loss 4638.09, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.818717 
+ Epoch 1, Batch: 617, Train Loss 139216.37, Train Accu 0.0934, Test Loss 4638.44, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 140.363587 
+ Epoch 1, Batch: 618, Train Loss 139204.39, Train Accu 0.0940, Test Loss 4638.09, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 139.388645 
+ Epoch 1, Batch: 619, Train Loss 139193.01, Train Accu 0.0941, Test Loss 4637.75, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 138.282165 
+ Epoch 1, Batch: 620, Train Loss 139205.00, Train Accu 0.0937, Test Loss 4638.12, Test Accu 0.0970
+Alg: normalized_grad_desc. Regret 138.957784 
+ Epoch 1, Batch: 621, Train Loss 139194.83, Train Accu 0.0942, Test Loss 4637.80, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 138.496949 
+ Epoch 1, Batch: 622, Train Loss 139205.87, Train Accu 0.0938, Test Loss 4638.14, Test Accu 0.0970
+Alg: normalized_grad_desc. Regret 139.810524 
+ Epoch 1, Batch: 623, Train Loss 139215.55, Train Accu 0.0933, Test Loss 4638.42, Test Accu 0.0965
+Alg: normalized_grad_desc. Regret 139.958514 
+ Epoch 1, Batch: 624, Train Loss 139204.18, Train Accu 0.0938, Test Loss 4638.07, Test Accu 0.0970
+Alg: normalized_grad_desc. Regret 139.681752 
+ Epoch 1, Batch: 625, Train Loss 139194.77, Train Accu 0.0940, Test Loss 4637.76, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.588776 
+ Epoch 1, Batch: 626, Train Loss 139205.61, Train Accu 0.0938, Test Loss 4638.08, Test Accu 0.0965
+Alg: normalized_grad_desc. Regret 139.292372 
+ Epoch 1, Batch: 627, Train Loss 139216.63, Train Accu 0.0933, Test Loss 4638.39, Test Accu 0.0965
+Alg: normalized_grad_desc. Regret 138.919830 
+ Epoch 1, Batch: 628, Train Loss 139205.62, Train Accu 0.0937, Test Loss 4638.05, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 138.967129 
+ Epoch 1, Batch: 629, Train Loss 139193.71, Train Accu 0.0941, Test Loss 4637.69, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.329909 
+ Epoch 1, Batch: 630, Train Loss 139183.48, Train Accu 0.0944, Test Loss 4637.37, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 138.233940 
+ Epoch 1, Batch: 631, Train Loss 139171.95, Train Accu 0.0950, Test Loss 4637.01, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.282652 
+ Epoch 1, Batch: 632, Train Loss 139160.82, Train Accu 0.0952, Test Loss 4636.70, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 139.287039 
+ Epoch 1, Batch: 633, Train Loss 139170.58, Train Accu 0.0949, Test Loss 4637.01, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 139.516981 
+ Epoch 1, Batch: 634, Train Loss 139182.26, Train Accu 0.0946, Test Loss 4637.37, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 139.320667 
+ Epoch 1, Batch: 635, Train Loss 139192.29, Train Accu 0.0945, Test Loss 4637.71, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 138.618143 
+ Epoch 1, Batch: 636, Train Loss 139180.74, Train Accu 0.0946, Test Loss 4637.39, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 139.787895 
+ Epoch 1, Batch: 637, Train Loss 139168.83, Train Accu 0.0950, Test Loss 4637.04, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 138.019351 
+ Epoch 1, Batch: 638, Train Loss 139179.44, Train Accu 0.0948, Test Loss 4637.37, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 140.577939 
+ Epoch 1, Batch: 639, Train Loss 139168.74, Train Accu 0.0952, Test Loss 4637.05, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 139.417753 
+ Epoch 1, Batch: 640, Train Loss 139179.77, Train Accu 0.0948, Test Loss 4637.40, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 139.896050 
+ Epoch 1, Batch: 641, Train Loss 139167.35, Train Accu 0.0951, Test Loss 4637.02, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 139.167112 
+ Epoch 1, Batch: 642, Train Loss 139156.84, Train Accu 0.0951, Test Loss 4636.71, Test Accu 0.1000
+Alg: normalized_grad_desc. Regret 138.682000 
+ Epoch 1, Batch: 643, Train Loss 139165.78, Train Accu 0.0950, Test Loss 4636.99, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 138.676433 
+ Epoch 1, Batch: 644, Train Loss 139177.75, Train Accu 0.0946, Test Loss 4637.36, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 139.288258 
+ Epoch 1, Batch: 645, Train Loss 139188.74, Train Accu 0.0940, Test Loss 4637.69, Test Accu 0.0995
+Alg: normalized_grad_desc. Regret 140.700740 
+ Epoch 1, Batch: 646, Train Loss 139176.72, Train Accu 0.0945, Test Loss 4637.33, Test Accu 0.0995
+Alg: normalized_grad_desc. Regret 139.167286 
+ Epoch 1, Batch: 647, Train Loss 139188.12, Train Accu 0.0944, Test Loss 4637.68, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 139.175762 
+ Epoch 1, Batch: 648, Train Loss 139199.72, Train Accu 0.0941, Test Loss 4638.04, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 138.179787 
+ Epoch 1, Batch: 649, Train Loss 139212.36, Train Accu 0.0938, Test Loss 4638.43, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 137.053099 
+ Epoch 1, Batch: 650, Train Loss 139202.51, Train Accu 0.0943, Test Loss 4638.15, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.423099 
+ Epoch 1, Batch: 651, Train Loss 139192.68, Train Accu 0.0946, Test Loss 4637.85, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 137.786403 
+ Epoch 1, Batch: 652, Train Loss 139203.58, Train Accu 0.0944, Test Loss 4638.17, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 140.687194 
+ Epoch 1, Batch: 653, Train Loss 139194.17, Train Accu 0.0949, Test Loss 4637.89, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.745403 
+ Epoch 1, Batch: 654, Train Loss 139181.76, Train Accu 0.0951, Test Loss 4637.53, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 140.533915 
+ Epoch 1, Batch: 655, Train Loss 139171.97, Train Accu 0.0954, Test Loss 4637.23, Test Accu 0.0995
+Alg: normalized_grad_desc. Regret 138.609846 
+ Epoch 1, Batch: 656, Train Loss 139160.26, Train Accu 0.0956, Test Loss 4636.87, Test Accu 0.1000
+Alg: normalized_grad_desc. Regret 139.303540 
+ Epoch 1, Batch: 657, Train Loss 139150.07, Train Accu 0.0959, Test Loss 4636.55, Test Accu 0.1010
+Alg: normalized_grad_desc. Regret 136.868011 
+ Epoch 1, Batch: 658, Train Loss 139141.15, Train Accu 0.0961, Test Loss 4636.25, Test Accu 0.1000
+Alg: normalized_grad_desc. Regret 138.805551 
+ Epoch 1, Batch: 659, Train Loss 139151.30, Train Accu 0.0957, Test Loss 4636.55, Test Accu 0.1000
+Alg: normalized_grad_desc. Regret 139.993963 
+ Epoch 1, Batch: 660, Train Loss 139162.19, Train Accu 0.0953, Test Loss 4636.85, Test Accu 0.0995
+Alg: normalized_grad_desc. Regret 138.365047 
+ Epoch 1, Batch: 661, Train Loss 139174.25, Train Accu 0.0949, Test Loss 4637.18, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 138.539844 
+ Epoch 1, Batch: 662, Train Loss 139185.43, Train Accu 0.0947, Test Loss 4637.52, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.401496 
+ Epoch 1, Batch: 663, Train Loss 139174.75, Train Accu 0.0950, Test Loss 4637.20, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 138.491276 
+ Epoch 1, Batch: 664, Train Loss 139163.28, Train Accu 0.0953, Test Loss 4636.86, Test Accu 0.0995
+Alg: normalized_grad_desc. Regret 139.368887 
+ Epoch 1, Batch: 665, Train Loss 139174.64, Train Accu 0.0950, Test Loss 4637.19, Test Accu 0.0995
+Alg: normalized_grad_desc. Regret 140.225311 
+ Epoch 1, Batch: 666, Train Loss 139187.27, Train Accu 0.0946, Test Loss 4637.57, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 139.419282 
+ Epoch 1, Batch: 667, Train Loss 139199.27, Train Accu 0.0943, Test Loss 4637.91, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 140.155234 
+ Epoch 1, Batch: 668, Train Loss 139189.37, Train Accu 0.0945, Test Loss 4637.61, Test Accu 0.0995
+Alg: normalized_grad_desc. Regret 138.434448 
+ Epoch 1, Batch: 669, Train Loss 139199.80, Train Accu 0.0943, Test Loss 4637.91, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 137.506945 
+ Epoch 1, Batch: 670, Train Loss 139189.10, Train Accu 0.0948, Test Loss 4637.59, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.071926 
+ Epoch 1, Batch: 671, Train Loss 139179.52, Train Accu 0.0949, Test Loss 4637.32, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 138.356837 
+ Epoch 1, Batch: 672, Train Loss 139190.72, Train Accu 0.0945, Test Loss 4637.64, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 138.147042 
+ Epoch 1, Batch: 673, Train Loss 139201.35, Train Accu 0.0942, Test Loss 4637.96, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 137.140140 
+ Epoch 1, Batch: 674, Train Loss 139189.82, Train Accu 0.0946, Test Loss 4637.63, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 137.466538 
+ Epoch 1, Batch: 675, Train Loss 139179.54, Train Accu 0.0949, Test Loss 4637.30, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.308418 
+ Epoch 1, Batch: 676, Train Loss 139190.27, Train Accu 0.0945, Test Loss 4637.64, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 138.962287 
+ Epoch 1, Batch: 677, Train Loss 139178.84, Train Accu 0.0947, Test Loss 4637.29, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 140.520437 
+ Epoch 1, Batch: 678, Train Loss 139167.83, Train Accu 0.0952, Test Loss 4636.97, Test Accu 0.1000
+Alg: normalized_grad_desc. Regret 139.160363 
+ Epoch 1, Batch: 679, Train Loss 139156.55, Train Accu 0.0954, Test Loss 4636.63, Test Accu 0.0995
+Alg: normalized_grad_desc. Regret 137.122098 
+ Epoch 1, Batch: 680, Train Loss 139166.40, Train Accu 0.0952, Test Loss 4636.93, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.515792 
+ Epoch 1, Batch: 681, Train Loss 139155.11, Train Accu 0.0956, Test Loss 4636.57, Test Accu 0.0995
+Alg: normalized_grad_desc. Regret 139.631993 
+ Epoch 1, Batch: 682, Train Loss 139165.46, Train Accu 0.0952, Test Loss 4636.90, Test Accu 0.1000
+Alg: normalized_grad_desc. Regret 137.926431 
+ Epoch 1, Batch: 683, Train Loss 139176.68, Train Accu 0.0949, Test Loss 4637.24, Test Accu 0.0995
+Alg: normalized_grad_desc. Regret 138.669711 
+ Epoch 1, Batch: 684, Train Loss 139165.77, Train Accu 0.0953, Test Loss 4636.91, Test Accu 0.1000
+Alg: normalized_grad_desc. Regret 137.666689 
+ Epoch 1, Batch: 685, Train Loss 139154.76, Train Accu 0.0956, Test Loss 4636.56, Test Accu 0.1000
+Alg: normalized_grad_desc. Regret 139.226509 
+ Epoch 1, Batch: 686, Train Loss 139144.59, Train Accu 0.0961, Test Loss 4636.28, Test Accu 0.1000
+Alg: normalized_grad_desc. Regret 139.240771 
+ Epoch 1, Batch: 687, Train Loss 139132.83, Train Accu 0.0963, Test Loss 4635.92, Test Accu 0.1000
+Alg: normalized_grad_desc. Regret 139.620065 
+ Epoch 1, Batch: 688, Train Loss 139123.03, Train Accu 0.0968, Test Loss 4635.63, Test Accu 0.1000
+Alg: normalized_grad_desc. Regret 138.922447 
+ Epoch 1, Batch: 689, Train Loss 139134.22, Train Accu 0.0964, Test Loss 4635.98, Test Accu 0.1000
+Alg: normalized_grad_desc. Regret 138.880972 
+ Epoch 1, Batch: 690, Train Loss 139146.44, Train Accu 0.0961, Test Loss 4636.35, Test Accu 0.1000
+Alg: normalized_grad_desc. Regret 139.883625 
+ Epoch 1, Batch: 691, Train Loss 139157.67, Train Accu 0.0955, Test Loss 4636.68, Test Accu 0.1000
+Alg: normalized_grad_desc. Regret 139.219860 
+ Epoch 1, Batch: 692, Train Loss 139168.97, Train Accu 0.0953, Test Loss 4637.03, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 139.690636 
+ Epoch 1, Batch: 693, Train Loss 139180.73, Train Accu 0.0948, Test Loss 4637.39, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.839862 
+ Epoch 1, Batch: 694, Train Loss 139168.18, Train Accu 0.0952, Test Loss 4637.00, Test Accu 0.1000
+Alg: normalized_grad_desc. Regret 138.569442 
+ Epoch 1, Batch: 695, Train Loss 139178.94, Train Accu 0.0949, Test Loss 4637.34, Test Accu 0.0995
+Alg: normalized_grad_desc. Regret 138.250558 
+ Epoch 1, Batch: 696, Train Loss 139191.28, Train Accu 0.0945, Test Loss 4637.71, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 137.401284 
+ Epoch 1, Batch: 697, Train Loss 139202.04, Train Accu 0.0941, Test Loss 4638.01, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 140.856014 
+ Epoch 1, Batch: 698, Train Loss 139193.57, Train Accu 0.0945, Test Loss 4637.72, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 140.322373 
+ Epoch 1, Batch: 699, Train Loss 139181.69, Train Accu 0.0946, Test Loss 4637.36, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 138.102386 
+ Epoch 1, Batch: 700, Train Loss 139193.86, Train Accu 0.0943, Test Loss 4637.72, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 138.551875 
+ Epoch 1, Batch: 701, Train Loss 139203.66, Train Accu 0.0941, Test Loss 4638.03, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 140.155363 
+ Epoch 1, Batch: 702, Train Loss 139193.60, Train Accu 0.0944, Test Loss 4637.69, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 140.480889 
+ Epoch 1, Batch: 703, Train Loss 139204.16, Train Accu 0.0940, Test Loss 4638.03, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 139.049332 
+ Epoch 1, Batch: 704, Train Loss 139215.18, Train Accu 0.0938, Test Loss 4638.39, Test Accu 0.0970
+Alg: normalized_grad_desc. Regret 139.334072 
+ Epoch 1, Batch: 705, Train Loss 139205.01, Train Accu 0.0943, Test Loss 4638.07, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 137.532267 
+ Epoch 1, Batch: 706, Train Loss 139193.01, Train Accu 0.0945, Test Loss 4637.71, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.125390 
+ Epoch 1, Batch: 707, Train Loss 139184.02, Train Accu 0.0950, Test Loss 4637.42, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.270366 
+ Epoch 1, Batch: 708, Train Loss 139173.48, Train Accu 0.0954, Test Loss 4637.09, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 138.559658 
+ Epoch 1, Batch: 709, Train Loss 139161.66, Train Accu 0.0957, Test Loss 4636.72, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 137.956119 
+ Epoch 1, Batch: 710, Train Loss 139150.29, Train Accu 0.0960, Test Loss 4636.36, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.556290 
+ Epoch 1, Batch: 711, Train Loss 139140.55, Train Accu 0.0966, Test Loss 4636.05, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 138.298482 
+ Epoch 1, Batch: 712, Train Loss 139128.59, Train Accu 0.0968, Test Loss 4635.70, Test Accu 0.0995
+Alg: normalized_grad_desc. Regret 139.249546 
+ Epoch 1, Batch: 713, Train Loss 139139.75, Train Accu 0.0963, Test Loss 4636.03, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 138.774399 
+ Epoch 1, Batch: 714, Train Loss 139150.90, Train Accu 0.0960, Test Loss 4636.37, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 137.854423 
+ Epoch 1, Batch: 715, Train Loss 139162.08, Train Accu 0.0958, Test Loss 4636.73, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.300735 
+ Epoch 1, Batch: 716, Train Loss 139151.15, Train Accu 0.0961, Test Loss 4636.43, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 141.090045 
+ Epoch 1, Batch: 717, Train Loss 139142.34, Train Accu 0.0964, Test Loss 4636.16, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.880786 
+ Epoch 1, Batch: 718, Train Loss 139130.39, Train Accu 0.0967, Test Loss 4635.82, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.039886 
+ Epoch 1, Batch: 719, Train Loss 139141.76, Train Accu 0.0963, Test Loss 4636.16, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.169752 
+ Epoch 1, Batch: 720, Train Loss 139153.12, Train Accu 0.0959, Test Loss 4636.52, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 140.767162 
+ Epoch 1, Batch: 721, Train Loss 139162.96, Train Accu 0.0954, Test Loss 4636.80, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.633817 
+ Epoch 1, Batch: 722, Train Loss 139173.02, Train Accu 0.0951, Test Loss 4637.09, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 137.958579 
+ Epoch 1, Batch: 723, Train Loss 139162.01, Train Accu 0.0955, Test Loss 4636.77, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 139.050498 
+ Epoch 1, Batch: 724, Train Loss 139151.88, Train Accu 0.0958, Test Loss 4636.45, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 139.093502 
+ Epoch 1, Batch: 725, Train Loss 139163.26, Train Accu 0.0954, Test Loss 4636.81, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 138.115977 
+ Epoch 1, Batch: 726, Train Loss 139174.11, Train Accu 0.0948, Test Loss 4637.11, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.051122 
+ Epoch 1, Batch: 727, Train Loss 139163.71, Train Accu 0.0953, Test Loss 4636.80, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.297336 
+ Epoch 1, Batch: 728, Train Loss 139151.84, Train Accu 0.0956, Test Loss 4636.44, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 139.441712 
+ Epoch 1, Batch: 729, Train Loss 139162.74, Train Accu 0.0955, Test Loss 4636.75, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.330691 
+ Epoch 1, Batch: 730, Train Loss 139173.72, Train Accu 0.0952, Test Loss 4637.09, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.007214 
+ Epoch 1, Batch: 731, Train Loss 139184.46, Train Accu 0.0946, Test Loss 4637.40, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.424318 
+ Epoch 1, Batch: 732, Train Loss 139173.41, Train Accu 0.0949, Test Loss 4637.10, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.960540 
+ Epoch 1, Batch: 733, Train Loss 139160.95, Train Accu 0.0954, Test Loss 4636.75, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 138.762144 
+ Epoch 1, Batch: 734, Train Loss 139170.96, Train Accu 0.0952, Test Loss 4637.08, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.243799 
+ Epoch 1, Batch: 735, Train Loss 139158.80, Train Accu 0.0956, Test Loss 4636.73, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.103652 
+ Epoch 1, Batch: 736, Train Loss 139167.35, Train Accu 0.0953, Test Loss 4637.00, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 138.851420 
+ Epoch 1, Batch: 737, Train Loss 139156.01, Train Accu 0.0956, Test Loss 4636.66, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.208243 
+ Epoch 1, Batch: 738, Train Loss 139144.90, Train Accu 0.0961, Test Loss 4636.35, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.288509 
+ Epoch 1, Batch: 739, Train Loss 139133.45, Train Accu 0.0964, Test Loss 4636.02, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 137.321890 
+ Epoch 1, Batch: 740, Train Loss 139122.04, Train Accu 0.0967, Test Loss 4635.71, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 138.714788 
+ Epoch 1, Batch: 741, Train Loss 139111.94, Train Accu 0.0972, Test Loss 4635.42, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 138.246956 
+ Epoch 1, Batch: 742, Train Loss 139100.31, Train Accu 0.0975, Test Loss 4635.08, Test Accu 0.0995
+Alg: normalized_grad_desc. Regret 140.416381 
+ Epoch 1, Batch: 743, Train Loss 139111.23, Train Accu 0.0973, Test Loss 4635.41, Test Accu 0.1005
+Alg: normalized_grad_desc. Regret 138.605865 
+ Epoch 1, Batch: 744, Train Loss 139099.39, Train Accu 0.0975, Test Loss 4635.06, Test Accu 0.1000
+Alg: normalized_grad_desc. Regret 138.503452 
+ Epoch 1, Batch: 745, Train Loss 139088.08, Train Accu 0.0978, Test Loss 4634.72, Test Accu 0.1010
+Alg: normalized_grad_desc. Regret 138.673762 
+ Epoch 1, Batch: 746, Train Loss 139099.36, Train Accu 0.0974, Test Loss 4635.05, Test Accu 0.1015
+Alg: normalized_grad_desc. Regret 139.658130 
+ Epoch 1, Batch: 747, Train Loss 139111.43, Train Accu 0.0969, Test Loss 4635.41, Test Accu 0.1000
+Alg: normalized_grad_desc. Regret 140.664086 
+ Epoch 1, Batch: 748, Train Loss 139099.58, Train Accu 0.0974, Test Loss 4635.07, Test Accu 0.1005
+Alg: normalized_grad_desc. Regret 139.284589 
+ Epoch 1, Batch: 749, Train Loss 139087.92, Train Accu 0.0978, Test Loss 4634.71, Test Accu 0.1005
+Alg: normalized_grad_desc. Regret 138.891015 
+ Epoch 1, Batch: 750, Train Loss 139097.83, Train Accu 0.0976, Test Loss 4635.02, Test Accu 0.1010
+Alg: normalized_grad_desc. Regret 139.888525 
+ Epoch 1, Batch: 751, Train Loss 139087.31, Train Accu 0.0978, Test Loss 4634.67, Test Accu 0.1010
+Alg: normalized_grad_desc. Regret 138.964405 
+ Epoch 1, Batch: 752, Train Loss 139099.48, Train Accu 0.0974, Test Loss 4635.03, Test Accu 0.0995
+Alg: normalized_grad_desc. Regret 138.854909 
+ Epoch 1, Batch: 753, Train Loss 139088.32, Train Accu 0.0977, Test Loss 4634.70, Test Accu 0.1005
+Alg: normalized_grad_desc. Regret 139.650929 
+ Epoch 1, Batch: 754, Train Loss 139100.46, Train Accu 0.0974, Test Loss 4635.08, Test Accu 0.1000
+Alg: normalized_grad_desc. Regret 137.822232 
+ Epoch 1, Batch: 755, Train Loss 139112.04, Train Accu 0.0971, Test Loss 4635.45, Test Accu 0.1000
+Alg: normalized_grad_desc. Regret 139.910353 
+ Epoch 1, Batch: 756, Train Loss 139122.68, Train Accu 0.0968, Test Loss 4635.76, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 140.458352 
+ Epoch 1, Batch: 757, Train Loss 139134.37, Train Accu 0.0966, Test Loss 4636.12, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 138.374694 
+ Epoch 1, Batch: 758, Train Loss 139124.70, Train Accu 0.0968, Test Loss 4635.82, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 140.432151 
+ Epoch 1, Batch: 759, Train Loss 139136.19, Train Accu 0.0964, Test Loss 4636.16, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.814361 
+ Epoch 1, Batch: 760, Train Loss 139148.67, Train Accu 0.0961, Test Loss 4636.51, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 138.736000 
+ Epoch 1, Batch: 761, Train Loss 139137.12, Train Accu 0.0965, Test Loss 4636.18, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.453463 
+ Epoch 1, Batch: 762, Train Loss 139125.66, Train Accu 0.0968, Test Loss 4635.83, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 139.684469 
+ Epoch 1, Batch: 763, Train Loss 139116.25, Train Accu 0.0968, Test Loss 4635.53, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 139.337707 
+ Epoch 1, Batch: 764, Train Loss 139128.41, Train Accu 0.0967, Test Loss 4635.88, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 137.438310 
+ Epoch 1, Batch: 765, Train Loss 139116.81, Train Accu 0.0969, Test Loss 4635.54, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 139.813232 
+ Epoch 1, Batch: 766, Train Loss 139126.95, Train Accu 0.0967, Test Loss 4635.84, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 138.647146 
+ Epoch 1, Batch: 767, Train Loss 139138.54, Train Accu 0.0964, Test Loss 4636.20, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 138.494718 
+ Epoch 1, Batch: 768, Train Loss 139148.69, Train Accu 0.0960, Test Loss 4636.51, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.359429 
+ Epoch 1, Batch: 769, Train Loss 139158.85, Train Accu 0.0957, Test Loss 4636.85, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.193526 
+ Epoch 1, Batch: 770, Train Loss 139147.37, Train Accu 0.0960, Test Loss 4636.53, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 140.524584 
+ Epoch 1, Batch: 771, Train Loss 139135.37, Train Accu 0.0965, Test Loss 4636.18, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 138.072175 
+ Epoch 1, Batch: 772, Train Loss 139123.96, Train Accu 0.0967, Test Loss 4635.85, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 137.685178 
+ Epoch 1, Batch: 773, Train Loss 139113.32, Train Accu 0.0970, Test Loss 4635.56, Test Accu 0.0995
+Alg: normalized_grad_desc. Regret 139.895756 
+ Epoch 1, Batch: 774, Train Loss 139123.20, Train Accu 0.0966, Test Loss 4635.87, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 139.039134 
+ Epoch 1, Batch: 775, Train Loss 139136.23, Train Accu 0.0962, Test Loss 4636.25, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 140.108682 
+ Epoch 1, Batch: 776, Train Loss 139147.80, Train Accu 0.0958, Test Loss 4636.58, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.820920 
+ Epoch 1, Batch: 777, Train Loss 139159.69, Train Accu 0.0954, Test Loss 4636.95, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 137.422816 
+ Epoch 1, Batch: 778, Train Loss 139148.40, Train Accu 0.0957, Test Loss 4636.59, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 141.256509 
+ Epoch 1, Batch: 779, Train Loss 139158.28, Train Accu 0.0955, Test Loss 4636.89, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 140.648511 
+ Epoch 1, Batch: 780, Train Loss 139169.43, Train Accu 0.0953, Test Loss 4637.23, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 141.463310 
+ Epoch 1, Batch: 781, Train Loss 139158.29, Train Accu 0.0955, Test Loss 4636.90, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 141.078435 
+ Epoch 1, Batch: 782, Train Loss 139168.24, Train Accu 0.0954, Test Loss 4637.20, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 138.454944 
+ Epoch 1, Batch: 783, Train Loss 139178.41, Train Accu 0.0950, Test Loss 4637.51, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 139.628130 
+ Epoch 1, Batch: 784, Train Loss 139166.79, Train Accu 0.0954, Test Loss 4637.18, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 140.322606 
+ Epoch 1, Batch: 785, Train Loss 139154.85, Train Accu 0.0957, Test Loss 4636.83, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 138.977569 
+ Epoch 1, Batch: 786, Train Loss 139143.33, Train Accu 0.0960, Test Loss 4636.47, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.112902 
+ Epoch 1, Batch: 787, Train Loss 139133.13, Train Accu 0.0964, Test Loss 4636.15, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 141.115153 
+ Epoch 1, Batch: 788, Train Loss 139123.03, Train Accu 0.0967, Test Loss 4635.82, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 139.992365 
+ Epoch 1, Batch: 789, Train Loss 139111.74, Train Accu 0.0968, Test Loss 4635.48, Test Accu 0.0995
+Alg: normalized_grad_desc. Regret 140.073420 
+ Epoch 1, Batch: 790, Train Loss 139122.97, Train Accu 0.0967, Test Loss 4635.80, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 137.315153 
+ Epoch 1, Batch: 791, Train Loss 139133.79, Train Accu 0.0962, Test Loss 4636.14, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.665816 
+ Epoch 1, Batch: 792, Train Loss 139142.38, Train Accu 0.0957, Test Loss 4636.37, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 138.347339 
+ Epoch 1, Batch: 793, Train Loss 139153.04, Train Accu 0.0954, Test Loss 4636.69, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 140.332224 
+ Epoch 1, Batch: 794, Train Loss 139142.93, Train Accu 0.0959, Test Loss 4636.40, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.637697 
+ Epoch 1, Batch: 795, Train Loss 139133.48, Train Accu 0.0962, Test Loss 4636.10, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 138.936463 
+ Epoch 1, Batch: 796, Train Loss 139123.14, Train Accu 0.0966, Test Loss 4635.80, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.779609 
+ Epoch 1, Batch: 797, Train Loss 139113.49, Train Accu 0.0970, Test Loss 4635.51, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 139.155521 
+ Epoch 1, Batch: 798, Train Loss 139125.66, Train Accu 0.0965, Test Loss 4635.86, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 138.349143 
+ Epoch 1, Batch: 799, Train Loss 139138.22, Train Accu 0.0961, Test Loss 4636.23, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.295547 
+ Epoch 1, Batch: 800, Train Loss 139147.12, Train Accu 0.0957, Test Loss 4636.48, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 140.099886 
+ Epoch 1, Batch: 801, Train Loss 139135.20, Train Accu 0.0960, Test Loss 4636.13, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 140.259926 
+ Epoch 1, Batch: 802, Train Loss 139147.04, Train Accu 0.0957, Test Loss 4636.47, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 138.674943 
+ Epoch 1, Batch: 803, Train Loss 139134.46, Train Accu 0.0962, Test Loss 4636.07, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.735014 
+ Epoch 1, Batch: 804, Train Loss 139124.87, Train Accu 0.0964, Test Loss 4635.77, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 138.872154 
+ Epoch 1, Batch: 805, Train Loss 139136.55, Train Accu 0.0959, Test Loss 4636.11, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.511597 
+ Epoch 1, Batch: 806, Train Loss 139126.89, Train Accu 0.0960, Test Loss 4635.82, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 138.635303 
+ Epoch 1, Batch: 807, Train Loss 139114.70, Train Accu 0.0965, Test Loss 4635.46, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 139.767376 
+ Epoch 1, Batch: 808, Train Loss 139125.57, Train Accu 0.0960, Test Loss 4635.79, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 139.273203 
+ Epoch 1, Batch: 809, Train Loss 139138.24, Train Accu 0.0957, Test Loss 4636.16, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 138.467325 
+ Epoch 1, Batch: 810, Train Loss 139149.23, Train Accu 0.0957, Test Loss 4636.49, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 138.871557 
+ Epoch 1, Batch: 811, Train Loss 139137.64, Train Accu 0.0959, Test Loss 4636.14, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 138.537313 
+ Epoch 1, Batch: 812, Train Loss 139148.43, Train Accu 0.0959, Test Loss 4636.46, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 138.164720 
+ Epoch 1, Batch: 813, Train Loss 139160.00, Train Accu 0.0956, Test Loss 4636.81, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 139.388904 
+ Epoch 1, Batch: 814, Train Loss 139148.82, Train Accu 0.0959, Test Loss 4636.48, Test Accu 0.0995
+Alg: normalized_grad_desc. Regret 140.739392 
+ Epoch 1, Batch: 815, Train Loss 139160.88, Train Accu 0.0955, Test Loss 4636.83, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 137.794860 
+ Epoch 1, Batch: 816, Train Loss 139149.64, Train Accu 0.0957, Test Loss 4636.47, Test Accu 0.0995
+Alg: normalized_grad_desc. Regret 137.464021 
+ Epoch 1, Batch: 817, Train Loss 139139.13, Train Accu 0.0960, Test Loss 4636.17, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 140.681021 
+ Epoch 1, Batch: 818, Train Loss 139149.47, Train Accu 0.0957, Test Loss 4636.48, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 140.627020 
+ Epoch 1, Batch: 819, Train Loss 139161.70, Train Accu 0.0953, Test Loss 4636.83, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.218308 
+ Epoch 1, Batch: 820, Train Loss 139172.48, Train Accu 0.0950, Test Loss 4637.17, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.383959 
+ Epoch 1, Batch: 821, Train Loss 139185.21, Train Accu 0.0944, Test Loss 4637.55, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 138.718306 
+ Epoch 1, Batch: 822, Train Loss 139173.74, Train Accu 0.0949, Test Loss 4637.22, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 138.959846 
+ Epoch 1, Batch: 823, Train Loss 139164.18, Train Accu 0.0951, Test Loss 4636.91, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 138.772721 
+ Epoch 1, Batch: 824, Train Loss 139176.34, Train Accu 0.0947, Test Loss 4637.28, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.378699 
+ Epoch 1, Batch: 825, Train Loss 139187.92, Train Accu 0.0941, Test Loss 4637.62, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 138.339041 
+ Epoch 1, Batch: 826, Train Loss 139177.42, Train Accu 0.0946, Test Loss 4637.30, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 138.980586 
+ Epoch 1, Batch: 827, Train Loss 139167.92, Train Accu 0.0951, Test Loss 4637.03, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 138.610322 
+ Epoch 1, Batch: 828, Train Loss 139177.46, Train Accu 0.0948, Test Loss 4637.33, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 138.956343 
+ Epoch 1, Batch: 829, Train Loss 139165.89, Train Accu 0.0952, Test Loss 4636.99, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 138.681865 
+ Epoch 1, Batch: 830, Train Loss 139155.72, Train Accu 0.0956, Test Loss 4636.68, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 137.525818 
+ Epoch 1, Batch: 831, Train Loss 139165.96, Train Accu 0.0954, Test Loss 4636.99, Test Accu 0.0995
+Alg: normalized_grad_desc. Regret 139.788660 
+ Epoch 1, Batch: 832, Train Loss 139155.87, Train Accu 0.0958, Test Loss 4636.66, Test Accu 0.0995
+Alg: normalized_grad_desc. Regret 138.185447 
+ Epoch 1, Batch: 833, Train Loss 139145.75, Train Accu 0.0961, Test Loss 4636.35, Test Accu 0.0995
+Alg: normalized_grad_desc. Regret 139.398204 
+ Epoch 1, Batch: 834, Train Loss 139135.70, Train Accu 0.0964, Test Loss 4636.05, Test Accu 0.0995
+Alg: normalized_grad_desc. Regret 139.648507 
+ Epoch 1, Batch: 835, Train Loss 139146.52, Train Accu 0.0962, Test Loss 4636.39, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 139.860546 
+ Epoch 1, Batch: 836, Train Loss 139157.72, Train Accu 0.0958, Test Loss 4636.74, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 138.356301 
+ Epoch 1, Batch: 837, Train Loss 139146.99, Train Accu 0.0963, Test Loss 4636.40, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 138.704213 
+ Epoch 1, Batch: 838, Train Loss 139158.74, Train Accu 0.0958, Test Loss 4636.74, Test Accu 0.0970
+Alg: normalized_grad_desc. Regret 140.783246 
+ Epoch 1, Batch: 839, Train Loss 139169.28, Train Accu 0.0955, Test Loss 4637.08, Test Accu 0.0970
+Alg: normalized_grad_desc. Regret 141.375773 
+ Epoch 1, Batch: 840, Train Loss 139180.93, Train Accu 0.0954, Test Loss 4637.40, Test Accu 0.0970
+Alg: normalized_grad_desc. Regret 139.547047 
+ Epoch 1, Batch: 841, Train Loss 139169.60, Train Accu 0.0957, Test Loss 4637.05, Test Accu 0.0970
+Alg: normalized_grad_desc. Regret 139.227020 
+ Epoch 1, Batch: 842, Train Loss 139159.20, Train Accu 0.0961, Test Loss 4636.75, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 139.554250 
+ Epoch 1, Batch: 843, Train Loss 139169.80, Train Accu 0.0959, Test Loss 4637.09, Test Accu 0.0970
+Alg: normalized_grad_desc. Regret 140.351916 
+ Epoch 1, Batch: 844, Train Loss 139160.15, Train Accu 0.0963, Test Loss 4636.79, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.580345 
+ Epoch 1, Batch: 845, Train Loss 139149.06, Train Accu 0.0966, Test Loss 4636.48, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 140.643381 
+ Epoch 1, Batch: 846, Train Loss 139159.47, Train Accu 0.0962, Test Loss 4636.82, Test Accu 0.0970
+Alg: normalized_grad_desc. Regret 139.091148 
+ Epoch 1, Batch: 847, Train Loss 139147.85, Train Accu 0.0967, Test Loss 4636.47, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 138.360974 
+ Epoch 1, Batch: 848, Train Loss 139135.47, Train Accu 0.0971, Test Loss 4636.10, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 141.093936 
+ Epoch 1, Batch: 849, Train Loss 139146.48, Train Accu 0.0967, Test Loss 4636.47, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 138.472958 
+ Epoch 1, Batch: 850, Train Loss 139135.13, Train Accu 0.0969, Test Loss 4636.13, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.086704 
+ Epoch 1, Batch: 851, Train Loss 139124.14, Train Accu 0.0971, Test Loss 4635.82, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 139.360224 
+ Epoch 1, Batch: 852, Train Loss 139134.65, Train Accu 0.0968, Test Loss 4636.14, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 138.994947 
+ Epoch 1, Batch: 853, Train Loss 139145.61, Train Accu 0.0963, Test Loss 4636.45, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.888405 
+ Epoch 1, Batch: 854, Train Loss 139134.09, Train Accu 0.0966, Test Loss 4636.11, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 138.396873 
+ Epoch 1, Batch: 855, Train Loss 139121.38, Train Accu 0.0969, Test Loss 4635.74, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 138.255302 
+ Epoch 1, Batch: 856, Train Loss 139132.24, Train Accu 0.0966, Test Loss 4636.05, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 138.194391 
+ Epoch 1, Batch: 857, Train Loss 139143.04, Train Accu 0.0963, Test Loss 4636.41, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 139.142096 
+ Epoch 1, Batch: 858, Train Loss 139132.32, Train Accu 0.0967, Test Loss 4636.09, Test Accu 0.0970
+Alg: normalized_grad_desc. Regret 139.837193 
+ Epoch 1, Batch: 859, Train Loss 139120.87, Train Accu 0.0971, Test Loss 4635.73, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 139.542879 
+ Epoch 1, Batch: 860, Train Loss 139132.80, Train Accu 0.0967, Test Loss 4636.12, Test Accu 0.0965
+Alg: normalized_grad_desc. Regret 138.949047 
+ Epoch 1, Batch: 861, Train Loss 139140.96, Train Accu 0.0965, Test Loss 4636.38, Test Accu 0.0965
+Alg: normalized_grad_desc. Regret 140.815171 
+ Epoch 1, Batch: 862, Train Loss 139151.53, Train Accu 0.0962, Test Loss 4636.70, Test Accu 0.0970
+Alg: normalized_grad_desc. Regret 138.364655 
+ Epoch 1, Batch: 863, Train Loss 139138.64, Train Accu 0.0965, Test Loss 4636.32, Test Accu 0.0965
+Alg: normalized_grad_desc. Regret 137.438052 
+ Epoch 1, Batch: 864, Train Loss 139127.82, Train Accu 0.0969, Test Loss 4636.00, Test Accu 0.0965
+Alg: normalized_grad_desc. Regret 138.969313 
+ Epoch 1, Batch: 865, Train Loss 139138.41, Train Accu 0.0965, Test Loss 4636.29, Test Accu 0.0965
+Alg: normalized_grad_desc. Regret 138.395911 
+ Epoch 1, Batch: 866, Train Loss 139127.14, Train Accu 0.0969, Test Loss 4635.95, Test Accu 0.0970
+Alg: normalized_grad_desc. Regret 139.762493 
+ Epoch 1, Batch: 867, Train Loss 139117.71, Train Accu 0.0975, Test Loss 4635.64, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 139.523515 
+ Epoch 1, Batch: 868, Train Loss 139130.17, Train Accu 0.0970, Test Loss 4636.04, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 140.445586 
+ Epoch 1, Batch: 869, Train Loss 139118.72, Train Accu 0.0974, Test Loss 4635.70, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 138.979962 
+ Epoch 1, Batch: 870, Train Loss 139109.09, Train Accu 0.0979, Test Loss 4635.39, Test Accu 0.0985
+Alg: normalized_grad_desc. Regret 137.466031 
+ Epoch 1, Batch: 871, Train Loss 139119.91, Train Accu 0.0974, Test Loss 4635.72, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 137.643072 
+ Epoch 1, Batch: 872, Train Loss 139109.20, Train Accu 0.0979, Test Loss 4635.38, Test Accu 0.0995
+Alg: normalized_grad_desc. Regret 138.540078 
+ Epoch 1, Batch: 873, Train Loss 139098.19, Train Accu 0.0984, Test Loss 4635.07, Test Accu 0.1000
+Alg: normalized_grad_desc. Regret 138.296994 
+ Epoch 1, Batch: 874, Train Loss 139109.93, Train Accu 0.0979, Test Loss 4635.43, Test Accu 0.0990
+Alg: normalized_grad_desc. Regret 137.722987 
+ Epoch 1, Batch: 875, Train Loss 139120.98, Train Accu 0.0976, Test Loss 4635.78, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 140.687435 
+ Epoch 1, Batch: 876, Train Loss 139132.07, Train Accu 0.0972, Test Loss 4636.12, Test Accu 0.0970
+Alg: normalized_grad_desc. Regret 139.520603 
+ Epoch 1, Batch: 877, Train Loss 139141.15, Train Accu 0.0970, Test Loss 4636.41, Test Accu 0.0980
+Alg: normalized_grad_desc. Regret 140.036348 
+ Epoch 1, Batch: 878, Train Loss 139153.33, Train Accu 0.0968, Test Loss 4636.79, Test Accu 0.0975
+Alg: normalized_grad_desc. Regret 140.158208 
+ Epoch 1, Batch: 879, Train Loss 139166.08, Train Accu 0.0961, Test Loss 4637.18, Test Accu 0.0965
+Alg: normalized_grad_desc. Regret 139.062150 
+ Epoch 1, Batch: 880, Train Loss 139156.44, Train Accu 0.0965, Test Loss 4636.88, Test Accu 0.0965
+Alg: normalized_grad_desc. Regret 139.407771 
+ Epoch 1, Batch: 881, Train Loss 139146.42, Train Accu 0.0971, Test Loss 4636.55, Test Accu 0.0970
+Alg: normalized_grad_desc. Regret 137.704263 
+ Epoch 1, Batch: 882, Train Loss 139158.51, Train Accu 0.0966, Test Loss 4636.90, Test Accu 0.0965
+Alg: normalized_grad_desc. Regret 138.914847 
+ Epoch 1, Batch: 883, Train Loss 139169.73, Train Accu 0.0961, Test Loss 4637.23, Test Accu 0.0965
+Alg: normalized_grad_desc. Regret 138.720095 
+ Epoch 1, Batch: 884, Train Loss 139158.97, Train Accu 0.0966, Test Loss 4636.90, Test Accu 0.0960
+Alg: normalized_grad_desc. Regret 138.581909 
+ Epoch 1, Batch: 885, Train Loss 139170.76, Train Accu 0.0961, Test Loss 4637.26, Test Accu 0.0960
+Alg: normalized_grad_desc. Regret 138.037245 
+ Epoch 1, Batch: 886, Train Loss 139179.75, Train Accu 0.0958, Test Loss 4637.56, Test Accu 0.0960
+Alg: normalized_grad_desc. Regret 138.467472 
+ Epoch 1, Batch: 887, Train Loss 139190.32, Train Accu 0.0956, Test Loss 4637.88, Test Accu 0.0950
+Alg: normalized_grad_desc. Regret 138.053330 
+ Epoch 1, Batch: 888, Train Loss 139200.06, Train Accu 0.0951, Test Loss 4638.18, Test Accu 0.0955
+Alg: normalized_grad_desc. Regret 137.966416 
+ Epoch 1, Batch: 889, Train Loss 139189.39, Train Accu 0.0955, Test Loss 4637.87, Test Accu 0.0965
+Alg: normalized_grad_desc. Regret 137.167480 
+ Epoch 1, Batch: 890, Train Loss 139201.50, Train Accu 0.0950, Test Loss 4638.23, Test Accu 0.0960
+Alg: normalized_grad_desc. Regret 140.810221 
+ Epoch 1, Batch: 891, Train Loss 139191.60, Train Accu 0.0954, Test Loss 4637.96, Test Accu 0.0965
+Alg: normalized_grad_desc. Regret 138.308767 
+ Epoch 1, Batch: 892, Train Loss 139181.62, Train Accu 0.0958, Test Loss 4637.67, Test Accu 0.0965
+Alg: normalized_grad_desc. Regret 138.682262 
+ Epoch 1, Batch: 893, Train Loss 139192.12, Train Accu 0.0953, Test Loss 4637.98, Test Accu 0.0960
+Alg: normalized_grad_desc. Regret 139.934875 
+ Epoch 1, Batch: 894, Train Loss 139182.28, Train Accu 0.0955, Test Loss 4637.64, Test Accu 0.0960
+Alg: normalized_grad_desc. Regret 138.786514 
+ Epoch 1, Batch: 895, Train Loss 139191.99, Train Accu 0.0952, Test Loss 4637.93, Test Accu 0.0955
+Alg: normalized_grad_desc. Regret 137.190893 
+ Epoch 1, Batch: 896, Train Loss 139202.61, Train Accu 0.0949, Test Loss 4638.28, Test Accu 0.0960
+Alg: normalized_grad_desc. Regret 137.946954 
+ Epoch 1, Batch: 897, Train Loss 139213.08, Train Accu 0.0945, Test Loss 4638.59, Test Accu 0.0950
+Alg: normalized_grad_desc. Regret 138.381402 
+ Epoch 1, Batch: 898, Train Loss 139203.89, Train Accu 0.0949, Test Loss 4638.32, Test Accu 0.0960
+Alg: normalized_grad_desc. Regret 138.396263 
+ Epoch 1, Batch: 899, Train Loss 139194.85, Train Accu 0.0952, Test Loss 4638.04, Test Accu 0.0955
+Alg: normalized_grad_desc. Regret 138.965395 
+ Epoch 1, Batch: 900, Train Loss 139203.99, Train Accu 0.0949, Test Loss 4638.32, Test Accu 0.0955
+Alg: normalized_grad_desc. Regret 141.061663 
+ Epoch 1, Batch: 901, Train Loss 139193.48, Train Accu 0.0953, Test Loss 4638.01, Test Accu 0.0955
+Alg: normalized_grad_desc. Regret 138.916150 
+ Epoch 1, Batch: 902, Train Loss 139181.35, Train Accu 0.0953, Test Loss 4637.62, Test Accu 0.0955
+Alg: normalized_grad_desc. Regret 139.341155 
+ Epoch 1, Batch: 903, Train Loss 139190.61, Train Accu 0.0952, Test Loss 4637.92, Test Accu 0.0955
+Alg: normalized_grad_desc. Regret 140.081852 
+ Epoch 1, Batch: 904, Train Loss 139180.01, Train Accu 0.0953, Test Loss 4637.60, Test Accu 0.0955
+Alg: normalized_grad_desc. Regret 138.677368 
+ Epoch 1, Batch: 905, Train Loss 139168.71, Train Accu 0.0958, Test Loss 4637.27, Test Accu 0.0955
+Alg: normalized_grad_desc. Regret 139.354434 
+ Epoch 1, Batch: 906, Train Loss 139178.45, Train Accu 0.0954, Test Loss 4637.58, Test Accu 0.0960
+Alg: normalized_grad_desc. Regret 138.715738 
+ Epoch 1, Batch: 907, Train Loss 139190.10, Train Accu 0.0950, Test Loss 4637.93, Test Accu 0.0955
+Alg: normalized_grad_desc. Regret 140.158362 
+ Epoch 1, Batch: 908, Train Loss 139179.24, Train Accu 0.0953, Test Loss 4637.62, Test Accu 0.0955
+Alg: normalized_grad_desc. Regret 139.439687 
+ Epoch 1, Batch: 909, Train Loss 139191.40, Train Accu 0.0951, Test Loss 4638.00, Test Accu 0.0960
+Alg: normalized_grad_desc. Regret 139.757961 
+ Epoch 1, Batch: 910, Train Loss 139202.85, Train Accu 0.0947, Test Loss 4638.34, Test Accu 0.0960
+Alg: normalized_grad_desc. Regret 140.463406 
+ Epoch 1, Batch: 911, Train Loss 139214.76, Train Accu 0.0944, Test Loss 4638.70, Test Accu 0.0955
+Alg: normalized_grad_desc. Regret 138.180205 
+ Epoch 1, Batch: 912, Train Loss 139225.48, Train Accu 0.0939, Test Loss 4639.01, Test Accu 0.0950
+Alg: normalized_grad_desc. Regret 137.543568 
+ Epoch 1, Batch: 913, Train Loss 139234.96, Train Accu 0.0934, Test Loss 4639.28, Test Accu 0.0935
+Alg: normalized_grad_desc. Regret 137.587406 
+ Epoch 1, Batch: 914, Train Loss 139244.35, Train Accu 0.0928, Test Loss 4639.55, Test Accu 0.0935
+Alg: normalized_grad_desc. Regret 139.419238 
+ Epoch 1, Batch: 915, Train Loss 139254.50, Train Accu 0.0924, Test Loss 4639.84, Test Accu 0.0930
+Alg: normalized_grad_desc. Regret 141.266242 
+ Epoch 1, Batch: 916, Train Loss 139243.16, Train Accu 0.0927, Test Loss 4639.51, Test Accu 0.0930
+Alg: normalized_grad_desc. Regret 139.474072 
+ Epoch 1, Batch: 917, Train Loss 139233.27, Train Accu 0.0930, Test Loss 4639.21, Test Accu 0.0930
+Alg: normalized_grad_desc. Regret 139.437933 
+ Epoch 1, Batch: 918, Train Loss 139242.67, Train Accu 0.0924, Test Loss 4639.51, Test Accu 0.0930
+Alg: normalized_grad_desc. Regret 137.406479 
+ Epoch 1, Batch: 919, Train Loss 139254.21, Train Accu 0.0922, Test Loss 4639.83, Test Accu 0.0925
+Alg: normalized_grad_desc. Regret 138.537546 
+ Epoch 1, Batch: 920, Train Loss 139243.61, Train Accu 0.0928, Test Loss 4639.52, Test Accu 0.0925
+Alg: normalized_grad_desc. Regret 138.184360 
+ Epoch 1, Batch: 921, Train Loss 139232.63, Train Accu 0.0934, Test Loss 4639.18, Test Accu 0.0930
+Alg: normalized_grad_desc. Regret 138.281127 
+ Epoch 1, Batch: 922, Train Loss 139244.27, Train Accu 0.0930, Test Loss 4639.54, Test Accu 0.0920
+Alg: normalized_grad_desc. Regret 140.745079 
+ Epoch 1, Batch: 923, Train Loss 139254.24, Train Accu 0.0923, Test Loss 4639.84, Test Accu 0.0920
+Alg: normalized_grad_desc. Regret 140.318694 
+ Epoch 1, Batch: 924, Train Loss 139243.37, Train Accu 0.0925, Test Loss 4639.47, Test Accu 0.0915
+Alg: normalized_grad_desc. Regret 139.377223 
+ Epoch 1, Batch: 925, Train Loss 139256.23, Train Accu 0.0921, Test Loss 4639.85, Test Accu 0.0895
+Alg: normalized_grad_desc. Regret 137.996930 
+ Epoch 1, Batch: 926, Train Loss 139267.04, Train Accu 0.0919, Test Loss 4640.19, Test Accu 0.0900
+Alg: normalized_grad_desc. Regret 139.216645 
+ Epoch 1, Batch: 927, Train Loss 139257.15, Train Accu 0.0924, Test Loss 4639.89, Test Accu 0.0900
+Alg: normalized_grad_desc. Regret 137.769310 
+ Epoch 1, Batch: 928, Train Loss 139246.98, Train Accu 0.0929, Test Loss 4639.58, Test Accu 0.0915
+Alg: normalized_grad_desc. Regret 140.189638 
+ Epoch 1, Batch: 929, Train Loss 139235.75, Train Accu 0.0933, Test Loss 4639.25, Test Accu 0.0915
+Alg: normalized_grad_desc. Regret 138.736396 
+ Epoch 1, Batch: 930, Train Loss 139246.38, Train Accu 0.0930, Test Loss 4639.56, Test Accu 0.0925
+Alg: normalized_grad_desc. Regret 139.642758 
+ Epoch 1, Batch: 931, Train Loss 139256.87, Train Accu 0.0927, Test Loss 4639.90, Test Accu 0.0905
+Alg: normalized_grad_desc. Regret 139.146982 
+ Epoch 1, Batch: 932, Train Loss 139245.55, Train Accu 0.0930, Test Loss 4639.53, Test Accu 0.0915
+Alg: normalized_grad_desc. Regret 138.061980 
+ Epoch 1, Batch: 933, Train Loss 139256.43, Train Accu 0.0926, Test Loss 4639.86, Test Accu 0.0915
+Alg: normalized_grad_desc. Regret 139.215180 
+ Epoch 1, Batch: 934, Train Loss 139267.13, Train Accu 0.0920, Test Loss 4640.21, Test Accu 0.0895
+Alg: normalized_grad_desc. Regret 138.310103 
+ Epoch 1, Batch: 935, Train Loss 139279.10, Train Accu 0.0917, Test Loss 4640.56, Test Accu 0.0890
+Alg: normalized_grad_desc. Regret 141.111370 
+ Epoch 1, Batch: 936, Train Loss 139290.07, Train Accu 0.0914, Test Loss 4640.91, Test Accu 0.0885
+Alg: normalized_grad_desc. Regret 138.417296 
+ Epoch 1, Batch: 937, Train Loss 139301.43, Train Accu 0.0910, Test Loss 4641.25, Test Accu 0.0885
+Alg: normalized_grad_desc. Regret 139.786052 
+ Epoch 1, Batch: 938, Train Loss 139291.37, Train Accu 0.0913, Test Loss 4640.92, Test Accu 0.0890
+Alg: normalized_grad_desc. Regret 139.160138 
+ Epoch 1, Batch: 939, Train Loss 139302.92, Train Accu 0.0910, Test Loss 4641.24, Test Accu 0.0880
+Alg: normalized_grad_desc. Regret 138.830232 
+ Epoch 1, Batch: 940, Train Loss 139291.64, Train Accu 0.0913, Test Loss 4640.90, Test Accu 0.0890
+Alg: normalized_grad_desc. Regret 138.393958 
+ Epoch 1, Batch: 941, Train Loss 139302.06, Train Accu 0.0908, Test Loss 4641.19, Test Accu 0.0880
+Alg: normalized_grad_desc. Regret 139.591391 
+ Epoch 1, Batch: 942, Train Loss 139292.07, Train Accu 0.0911, Test Loss 4640.91, Test Accu 0.0885
+Alg: normalized_grad_desc. Regret 139.189662 
+ Epoch 1, Batch: 943, Train Loss 139279.85, Train Accu 0.0915, Test Loss 4640.52, Test Accu 0.0890
+Alg: normalized_grad_desc. Regret 139.411615 
+ Epoch 1, Batch: 944, Train Loss 139291.43, Train Accu 0.0909, Test Loss 4640.85, Test Accu 0.0885
+Alg: normalized_grad_desc. Regret 138.139252 
+ Epoch 1, Batch: 945, Train Loss 139303.01, Train Accu 0.0904, Test Loss 4641.18, Test Accu 0.0880
+Alg: normalized_grad_desc. Regret 140.946653 
+ Epoch 1, Batch: 946, Train Loss 139314.89, Train Accu 0.0901, Test Loss 4641.54, Test Accu 0.0880
+Alg: normalized_grad_desc. Regret 141.441150 
+ Epoch 1, Batch: 947, Train Loss 139325.06, Train Accu 0.0898, Test Loss 4641.85, Test Accu 0.0880
+Alg: normalized_grad_desc. Regret 139.386743 
+ Epoch 1, Batch: 948, Train Loss 139335.75, Train Accu 0.0894, Test Loss 4642.18, Test Accu 0.0880
+Alg: normalized_grad_desc. Regret 139.006851 
+ Epoch 1, Batch: 949, Train Loss 139326.18, Train Accu 0.0898, Test Loss 4641.89, Test Accu 0.0880
+Alg: normalized_grad_desc. Regret 137.903738 
+ Epoch 1, Batch: 950, Train Loss 139314.82, Train Accu 0.0903, Test Loss 4641.58, Test Accu 0.0885
+Alg: normalized_grad_desc. Regret 140.480830 
+ Epoch 1, Batch: 951, Train Loss 139323.06, Train Accu 0.0900, Test Loss 4641.80, Test Accu 0.0880
+Alg: normalized_grad_desc. Regret 141.214295 
+ Epoch 1, Batch: 952, Train Loss 139333.74, Train Accu 0.0896, Test Loss 4642.10, Test Accu 0.0885
+Alg: normalized_grad_desc. Regret 137.777713 
+ Epoch 1, Batch: 953, Train Loss 139344.77, Train Accu 0.0895, Test Loss 4642.43, Test Accu 0.0885
+Alg: normalized_grad_desc. Regret 138.264724 
+ Epoch 1, Batch: 954, Train Loss 139335.54, Train Accu 0.0899, Test Loss 4642.13, Test Accu 0.0880
+Alg: normalized_grad_desc. Regret 139.286752 
+ Epoch 1, Batch: 955, Train Loss 139324.68, Train Accu 0.0904, Test Loss 4641.81, Test Accu 0.0880
+Alg: normalized_grad_desc. Regret 140.798871 
+ Epoch 1, Batch: 956, Train Loss 139313.04, Train Accu 0.0909, Test Loss 4641.43, Test Accu 0.0885
+Alg: normalized_grad_desc. Regret 138.909253 
+ Epoch 1, Batch: 957, Train Loss 139324.62, Train Accu 0.0906, Test Loss 4641.79, Test Accu 0.0890
+Alg: normalized_grad_desc. Regret 138.879839 
+ Epoch 1, Batch: 958, Train Loss 139335.11, Train Accu 0.0901, Test Loss 4642.09, Test Accu 0.0890
+Alg: normalized_grad_desc. Regret 139.883261 
+ Epoch 1, Batch: 959, Train Loss 139324.16, Train Accu 0.0906, Test Loss 4641.75, Test Accu 0.0890
+Alg: normalized_grad_desc. Regret 138.459788 
+ Epoch 1, Batch: 960, Train Loss 139312.88, Train Accu 0.0911, Test Loss 4641.42, Test Accu 0.0895
+Alg: normalized_grad_desc. Regret 139.586606 
+ Epoch 1, Batch: 961, Train Loss 139323.19, Train Accu 0.0904, Test Loss 4641.72, Test Accu 0.0885
+Alg: normalized_grad_desc. Regret 139.021660 
+ Epoch 1, Batch: 962, Train Loss 139313.00, Train Accu 0.0910, Test Loss 4641.42, Test Accu 0.0885
+Alg: normalized_grad_desc. Regret 137.721567 
+ Epoch 1, Batch: 963, Train Loss 139322.86, Train Accu 0.0907, Test Loss 4641.73, Test Accu 0.0885
+Alg: normalized_grad_desc. Regret 139.996922 
+ Epoch 1, Batch: 964, Train Loss 139333.10, Train Accu 0.0903, Test Loss 4642.03, Test Accu 0.0880
+Alg: normalized_grad_desc. Regret 138.899947 
+ Epoch 1, Batch: 965, Train Loss 139322.87, Train Accu 0.0904, Test Loss 4641.73, Test Accu 0.0890
+Alg: normalized_grad_desc. Regret 139.120427 
+ Epoch 1, Batch: 966, Train Loss 139334.59, Train Accu 0.0899, Test Loss 4642.07, Test Accu 0.0885
+Alg: normalized_grad_desc. Regret 138.617467 
+ Epoch 1, Batch: 967, Train Loss 139346.02, Train Accu 0.0895, Test Loss 4642.41, Test Accu 0.0880
+Alg: normalized_grad_desc. Regret 139.651069 
+ Epoch 1, Batch: 968, Train Loss 139333.85, Train Accu 0.0900, Test Loss 4642.06, Test Accu 0.0890
+Alg: normalized_grad_desc. Regret 138.504415 
+ Epoch 1, Batch: 969, Train Loss 139322.24, Train Accu 0.0903, Test Loss 4641.72, Test Accu 0.0885
+Alg: normalized_grad_desc. Regret 140.001440 
+ Epoch 1, Batch: 970, Train Loss 139334.86, Train Accu 0.0900, Test Loss 4642.11, Test Accu 0.0885
+Alg: normalized_grad_desc. Regret 138.542610 
+ Epoch 1, Batch: 971, Train Loss 139323.00, Train Accu 0.0904, Test Loss 4641.77, Test Accu 0.0885
+Alg: normalized_grad_desc. Regret 138.953306 
+ Epoch 1, Batch: 972, Train Loss 139313.41, Train Accu 0.0906, Test Loss 4641.46, Test Accu 0.0890
+Alg: normalized_grad_desc. Regret 138.517950 
+ Epoch 1, Batch: 973, Train Loss 139324.81, Train Accu 0.0903, Test Loss 4641.80, Test Accu 0.0885
+Alg: normalized_grad_desc. Regret 140.892002 
+ Epoch 1, Batch: 974, Train Loss 139314.92, Train Accu 0.0905, Test Loss 4641.51, Test Accu 0.0890
+Alg: normalized_grad_desc. Regret 140.752009 
+ Epoch 1, Batch: 975, Train Loss 139325.48, Train Accu 0.0900, Test Loss 4641.80, Test Accu 0.0880
+Alg: normalized_grad_desc. Regret 139.827075 
+ Epoch 1, Batch: 976, Train Loss 139313.74, Train Accu 0.0902, Test Loss 4641.42, Test Accu 0.0890
+Alg: normalized_grad_desc. Regret 140.813889 
+ Epoch 1, Batch: 977, Train Loss 139302.84, Train Accu 0.0906, Test Loss 4641.09, Test Accu 0.0890
+Alg: normalized_grad_desc. Regret 139.879416 
+ Epoch 1, Batch: 978, Train Loss 139291.24, Train Accu 0.0906, Test Loss 4640.71, Test Accu 0.0900
+Alg: normalized_grad_desc. Regret 140.558634 
+ Epoch 1, Batch: 979, Train Loss 139279.93, Train Accu 0.0911, Test Loss 4640.40, Test Accu 0.0900
+Alg: normalized_grad_desc. Regret 138.390118 
+ Epoch 1, Batch: 980, Train Loss 139290.88, Train Accu 0.0908, Test Loss 4640.75, Test Accu 0.0900
+Alg: normalized_grad_desc. Regret 137.285343 
+ Epoch 1, Batch: 981, Train Loss 139279.90, Train Accu 0.0912, Test Loss 4640.39, Test Accu 0.0905
+Alg: normalized_grad_desc. Regret 139.295480 
+ Epoch 1, Batch: 982, Train Loss 139288.53, Train Accu 0.0906, Test Loss 4640.66, Test Accu 0.0905
+Alg: normalized_grad_desc. Regret 140.849219 
+ Epoch 1, Batch: 983, Train Loss 139277.95, Train Accu 0.0912, Test Loss 4640.34, Test Accu 0.0910
+Alg: normalized_grad_desc. Regret 138.777183 
+ Epoch 1, Batch: 984, Train Loss 139266.13, Train Accu 0.0916, Test Loss 4639.96, Test Accu 0.0910
+Alg: normalized_grad_desc. Regret 139.010234 
+ Epoch 1, Batch: 985, Train Loss 139277.26, Train Accu 0.0911, Test Loss 4640.30, Test Accu 0.0905
+Alg: normalized_grad_desc. Regret 138.471204 
+ Epoch 1, Batch: 986, Train Loss 139268.13, Train Accu 0.0914, Test Loss 4640.00, Test Accu 0.0905
+Alg: normalized_grad_desc. Regret 139.909027 
+ Epoch 1, Batch: 987, Train Loss 139256.27, Train Accu 0.0917, Test Loss 4639.66, Test Accu 0.0905
+Alg: normalized_grad_desc. Regret 139.107534 
+ Epoch 1, Batch: 988, Train Loss 139244.74, Train Accu 0.0921, Test Loss 4639.31, Test Accu 0.0910
+Alg: normalized_grad_desc. Regret 140.438926 
+ Epoch 1, Batch: 989, Train Loss 139235.15, Train Accu 0.0926, Test Loss 4639.01, Test Accu 0.0910
+Alg: normalized_grad_desc. Regret 137.991126 
+ Epoch 1, Batch: 990, Train Loss 139247.06, Train Accu 0.0922, Test Loss 4639.39, Test Accu 0.0910
+Alg: normalized_grad_desc. Regret 138.937407 
+ Epoch 1, Batch: 991, Train Loss 139236.82, Train Accu 0.0927, Test Loss 4639.09, Test Accu 0.0910
+Alg: normalized_grad_desc. Regret 138.530475 
+ Epoch 1, Batch: 992, Train Loss 139224.62, Train Accu 0.0930, Test Loss 4638.69, Test Accu 0.0910
+Alg: normalized_grad_desc. Regret 139.456049 
+ Epoch 1, Batch: 993, Train Loss 139234.93, Train Accu 0.0925, Test Loss 4639.02, Test Accu 0.0910
+Alg: normalized_grad_desc. Regret 140.563121 
+ Epoch 1, Batch: 994, Train Loss 139246.34, Train Accu 0.0922, Test Loss 4639.35, Test Accu 0.0910
+Alg: normalized_grad_desc. Regret 138.994017 
+ Epoch 1, Batch: 995, Train Loss 139258.14, Train Accu 0.0920, Test Loss 4639.71, Test Accu 0.0905
+Alg: normalized_grad_desc. Regret 139.528189 
+ Epoch 1, Batch: 996, Train Loss 139268.35, Train Accu 0.0913, Test Loss 4639.99, Test Accu 0.0895
+Alg: normalized_grad_desc. Regret 140.700501 
+ Epoch 1, Batch: 997, Train Loss 139279.10, Train Accu 0.0912, Test Loss 4640.32, Test Accu 0.0890
+Alg: normalized_grad_desc. Regret 139.246761 
+ Epoch 1, Batch: 998, Train Loss 139290.86, Train Accu 0.0908, Test Loss 4640.68, Test Accu 0.0885
+Alg: normalized_grad_desc. Regret 137.753000 
+ Epoch 1, Batch: 999, Train Loss 139279.20, Train Accu 0.0914, Test Loss 4640.33, Test Accu 0.0895
+Alg: normalized_grad_desc. Regret 138.413966 
+ Epoch 1, Batch: 1000, Train Loss 139268.86, Train Accu 0.0917, Test Loss 4640.02, Test Accu 0.0905

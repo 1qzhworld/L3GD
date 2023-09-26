@@ -1,0 +1,24 @@
+{
+    "_comment000+": "based on config_mnist_attack0305",
+    "alg": ["grad_desc", "normalized_grad_desc"],
+    "num_epoch" : 1,
+    "batch_size" : 60,
+    "TEST_SIZE": 2000,
+    "shuffer": true,
+    "num_batch": 0,
+    "Kt": "thm_cst",
+    "alpha": 0.25,
+    "//alpha": "to achieve T^alpha regret, used for setting Kt ",
+    "learning_rate" : {
+        "base_stp": 2.5e-4,
+        "diminishing": false
+    },
+    "continue_training": false,
+    "attack": {
+        "attack_prob": 0.1,
+        "attack_type": "flipping",
+        "attack_magnitude": 9
+    },
+    "save": true,
+    "load": false
+}

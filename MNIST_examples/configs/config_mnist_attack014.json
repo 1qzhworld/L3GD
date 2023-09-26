@@ -1,0 +1,27 @@
+{
+    "_comment000+": "based on config_mnist_attack0305",
+    "_comment005": "base, no attack for grad_desc",
+    "_comment006+": "normalized_grad_desc with Kt=1, attack_magnitude=11",
+    "_comment011+": "OMGD, OMNGD, attack_magnitude=3, attack_prob=0.2+, Kt='thm_cst'",
+    "alg": ["grad_desc","normalized_grad_desc"],
+    "num_epoch" : 1,
+    "batch_size" : 60,
+    "TEST_SIZE": 2000,
+    "shuffer": true,
+    "num_batch": 0,
+    "Kt": "thm_cst",
+    "alpha": 0.25,
+    "//alpha": "to achieve T^alpha regret, used for setting Kt ",
+    "learning_rate" : {
+        "base_stp": 2.5e-4,
+        "diminishing": false
+    },
+    "continue_training": false,
+    "attack": {
+        "attack_prob": 0.5,
+        "attack_type": "flipping",
+        "attack_magnitude": 3
+    },
+    "save": true,
+    "load": false
+}
