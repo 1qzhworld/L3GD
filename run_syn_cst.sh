@@ -1,0 +1,3 @@
+python synthetic_examples/examples/DiffProb_cos200.py
+python synthetic_examples/examples/DiffProb_cos500.py
+python synthetic_examples/examples/DiffProb_rand.py
