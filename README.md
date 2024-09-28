@@ -27,3 +27,19 @@
 ## Notes
 
 - Install the libraries listed in `requirements.txt` by running `pip install -r requirements.txt`
+
+## Published paper
+The code is the implementation of the following paper.
+```
+@ARTICLE{10507162,
+  author={Qu, Zhihai and Li, Xiuxian and Li, Li and Yi, Xinlei},
+  journal={IEEE Transactions on Signal Processing}, 
+  title={Online Optimization Under Randomly Corrupted Attacks}, 
+  year={2024},
+  volume={72},
+  number={},
+  pages={2160-2172},
+  keywords={Optimization;Signal processing algorithms;Heuristic algorithms;Machine learning algorithms;Robustness;Noise;Security;Online optimization;corrupted gradients;resilient online optimization algorithm},
+  doi={10.1109/TSP.2024.3392361}
+}
+```
